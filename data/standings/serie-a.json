@@ -1,0 +1,282 @@
+[
+  {
+    "rank": "1",
+    "team": {
+      "name": "Inter Milan"
+    },
+    "games": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goalsFor": "5",
+    "goalsAgainst": "0",
+    "goalDifference": "5",
+    "points": "3"
+  },
+  {
+    "rank": "2",
+    "team": {
+      "name": "Napoli"
+    },
+    "games": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goalsFor": "2",
+    "goalsAgainst": "0",
+    "goalDifference": "2",
+    "points": "3"
+  },
+  {
+    "rank": "3",
+    "team": {
+      "name": "Juventus"
+    },
+    "games": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goalsFor": "2",
+    "goalsAgainst": "0",
+    "goalDifference": "2",
+    "points": "3"
+  },
+  {
+    "rank": "4",
+    "team": {
+      "name": "Como"
+    },
+    "games": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goalsFor": "2",
+    "goalsAgainst": "0",
+    "goalDifference": "2",
+    "points": "3"
+  },
+  {
+    "rank": "5",
+    "team": {
+      "name": "Cremonese"
+    },
+    "games": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goalsFor": "2",
+    "goalsAgainst": "1",
+    "goalDifference": "1",
+    "points": "3"
+  },
+  {
+    "rank": "6",
+    "team": {
+      "name": "Roma"
+    },
+    "games": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goalsFor": "1",
+    "goalsAgainst": "0",
+    "goalDifference": "1",
+    "points": "3"
+  },
+  {
+    "rank": "7",
+    "team": {
+      "name": "Pisa"
+    },
+    "games": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "1",
+    "goalsAgainst": "1",
+    "goalDifference": "0",
+    "points": "1"
+  },
+  {
+    "rank": "8",
+    "team": {
+      "name": "Udinese"
+    },
+    "games": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "1",
+    "goalsAgainst": "1",
+    "goalDifference": "0",
+    "points": "1"
+  },
+  {
+    "rank": "9",
+    "team": {
+      "name": "Fiorentina"
+    },
+    "games": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "1",
+    "goalsAgainst": "1",
+    "goalDifference": "0",
+    "points": "1"
+  },
+  {
+    "rank": "10",
+    "team": {
+      "name": "Atalanta"
+    },
+    "games": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "1",
+    "goalsAgainst": "1",
+    "goalDifference": "0",
+    "points": "1"
+  },
+  {
+    "rank": "11",
+    "team": {
+      "name": "Cagliari"
+    },
+    "games": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "1",
+    "goalsAgainst": "1",
+    "goalDifference": "0",
+    "points": "1"
+  },
+  {
+    "rank": "12",
+    "team": {
+      "name": "Hellas Verona"
+    },
+    "games": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "1",
+    "goalsAgainst": "1",
+    "goalDifference": "0",
+    "points": "1"
+  },
+  {
+    "rank": "13",
+    "team": {
+      "name": "Lecce"
+    },
+    "games": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "0",
+    "goalsAgainst": "0",
+    "goalDifference": "0",
+    "points": "1"
+  },
+  {
+    "rank": "14",
+    "team": {
+      "name": "Genoa"
+    },
+    "games": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "0",
+    "goalsAgainst": "0",
+    "goalDifference": "0",
+    "points": "1"
+  },
+  {
+    "rank": "15",
+    "team": {
+      "name": "AC Milan"
+    },
+    "games": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "1",
+    "goalsAgainst": "2",
+    "goalDifference": "-1",
+    "points": "0"
+  },
+  {
+    "rank": "16",
+    "team": {
+      "name": "Bologna"
+    },
+    "games": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "0",
+    "goalsAgainst": "1",
+    "goalDifference": "-1",
+    "points": "0"
+  },
+  {
+    "rank": "17",
+    "team": {
+      "name": "Sassuolo"
+    },
+    "games": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "0",
+    "goalsAgainst": "2",
+    "goalDifference": "-2",
+    "points": "0"
+  },
+  {
+    "rank": "18",
+    "team": {
+      "name": "Lazio"
+    },
+    "games": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "0",
+    "goalsAgainst": "2",
+    "goalDifference": "-2",
+    "points": "0"
+  },
+  {
+    "rank": "19",
+    "team": {
+      "name": "Parma"
+    },
+    "games": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "0",
+    "goalsAgainst": "2",
+    "goalDifference": "-2",
+    "points": "0"
+  },
+  {
+    "rank": "20",
+    "team": {
+      "name": "Torino"
+    },
+    "games": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "0",
+    "goalsAgainst": "5",
+    "goalDifference": "-5",
+    "points": "0"
+  }
+]
