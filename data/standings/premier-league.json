@@ -2,281 +2,71 @@
   {
     "rank": "1",
     "team": {
-      "name": "Arsenal"
+      "name": "Liverpool"
     },
-    "games": "2",
-    "wins": "2",
+    "games": "3",
+    "wins": "3",
     "draws": "0",
     "losses": "0",
-    "goalsFor": "6",
-    "goalsAgainst": "0",
-    "goalDifference": "6",
-    "points": "6"
+    "goalsFor": "8",
+    "goalsAgainst": "4",
+    "goalDifference": "4",
+    "points": "9"
   },
   {
     "rank": "2",
     "team": {
-      "name": "Tottenham Hotspur"
+      "name": "Chelsea"
     },
-    "games": "2",
+    "games": "3",
     "wins": "2",
-    "draws": "0",
+    "draws": "1",
     "losses": "0",
-    "goalsFor": "5",
-    "goalsAgainst": "0",
-    "goalDifference": "5",
-    "points": "6"
+    "goalsFor": "7",
+    "goalsAgainst": "1",
+    "goalDifference": "6",
+    "points": "7"
   },
   {
     "rank": "3",
     "team": {
-      "name": "Chelsea"
+      "name": "Arsenal"
     },
-    "games": "2",
-    "wins": "1",
-    "draws": "1",
-    "losses": "0",
-    "goalsFor": "5",
+    "games": "3",
+    "wins": "2",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "6",
     "goalsAgainst": "1",
-    "goalDifference": "4",
-    "points": "4"
+    "goalDifference": "5",
+    "points": "6"
   },
   {
     "rank": "4",
     "team": {
-      "name": "Nottingham Forest"
+      "name": "Tottenham Hotspur"
     },
-    "games": "2",
-    "wins": "1",
-    "draws": "1",
-    "losses": "0",
-    "goalsFor": "4",
-    "goalsAgainst": "2",
-    "goalDifference": "2",
-    "points": "4"
+    "games": "3",
+    "wins": "2",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "5",
+    "goalsAgainst": "1",
+    "goalDifference": "4",
+    "points": "6"
   },
   {
     "rank": "5",
     "team": {
-      "name": "Liverpool"
-    },
-    "games": "1",
-    "wins": "1",
-    "draws": "0",
-    "losses": "0",
-    "goalsFor": "4",
-    "goalsAgainst": "2",
-    "goalDifference": "2",
-    "points": "3"
-  },
-  {
-    "rank": "6",
-    "team": {
-      "name": "Manchester City"
-    },
-    "games": "2",
-    "wins": "1",
-    "draws": "0",
-    "losses": "1",
-    "goalsFor": "4",
-    "goalsAgainst": "2",
-    "goalDifference": "2",
-    "points": "3"
-  },
-  {
-    "rank": "7",
-    "team": {
-      "name": "Sunderland"
-    },
-    "games": "2",
-    "wins": "1",
-    "draws": "0",
-    "losses": "1",
-    "goalsFor": "3",
-    "goalsAgainst": "2",
-    "goalDifference": "1",
-    "points": "3"
-  },
-  {
-    "rank": "8",
-    "team": {
       "name": "Everton"
     },
-    "games": "2",
-    "wins": "1",
+    "games": "3",
+    "wins": "2",
     "draws": "0",
     "losses": "1",
-    "goalsFor": "2",
-    "goalsAgainst": "1",
-    "goalDifference": "1",
-    "points": "3"
-  },
-  {
-    "rank": "9",
-    "team": {
-      "name": "Bournemouth"
-    },
-    "games": "2",
-    "wins": "1",
-    "draws": "0",
-    "losses": "1",
-    "goalsFor": "3",
-    "goalsAgainst": "4",
-    "goalDifference": "-1",
-    "points": "3"
-  },
-  {
-    "rank": "10",
-    "team": {
-      "name": "Burnley"
-    },
-    "games": "2",
-    "wins": "1",
-    "draws": "0",
-    "losses": "1",
-    "goalsFor": "2",
+    "goalsFor": "5",
     "goalsAgainst": "3",
-    "goalDifference": "-1",
-    "points": "3"
-  },
-  {
-    "rank": "11",
-    "team": {
-      "name": "Brentford"
-    },
-    "games": "2",
-    "wins": "1",
-    "draws": "0",
-    "losses": "1",
-    "goalsFor": "2",
-    "goalsAgainst": "3",
-    "goalDifference": "-1",
-    "points": "3"
-  },
-  {
-    "rank": "12",
-    "team": {
-      "name": "Leeds United"
-    },
-    "games": "2",
-    "wins": "1",
-    "draws": "0",
-    "losses": "1",
-    "goalsFor": "1",
-    "goalsAgainst": "5",
-    "goalDifference": "-4",
-    "points": "3"
-  },
-  {
-    "rank": "13",
-    "team": {
-      "name": "Fulham"
-    },
-    "games": "2",
-    "wins": "0",
-    "draws": "2",
-    "losses": "0",
-    "goalsFor": "2",
-    "goalsAgainst": "2",
-    "goalDifference": "0",
-    "points": "2"
-  },
-  {
-    "rank": "14",
-    "team": {
-      "name": "Crystal Palace"
-    },
-    "games": "2",
-    "wins": "0",
-    "draws": "2",
-    "losses": "0",
-    "goalsFor": "1",
-    "goalsAgainst": "1",
-    "goalDifference": "0",
-    "points": "2"
-  },
-  {
-    "rank": "15",
-    "team": {
-      "name": "Newcastle United"
-    },
-    "games": "1",
-    "wins": "0",
-    "draws": "1",
-    "losses": "0",
-    "goalsFor": "0",
-    "goalsAgainst": "0",
-    "goalDifference": "0",
-    "points": "1"
-  },
-  {
-    "rank": "16",
-    "team": {
-      "name": "Manchester United"
-    },
-    "games": "2",
-    "wins": "0",
-    "draws": "1",
-    "losses": "1",
-    "goalsFor": "1",
-    "goalsAgainst": "2",
-    "goalDifference": "-1",
-    "points": "1"
-  },
-  {
-    "rank": "17",
-    "team": {
-      "name": "Aston Villa"
-    },
-    "games": "2",
-    "wins": "0",
-    "draws": "1",
-    "losses": "1",
-    "goalsFor": "0",
-    "goalsAgainst": "1",
-    "goalDifference": "-1",
-    "points": "1"
-  },
-  {
-    "rank": "18",
-    "team": {
-      "name": "Brighton and Hove Albion"
-    },
-    "games": "2",
-    "wins": "0",
-    "draws": "1",
-    "losses": "1",
-    "goalsFor": "1",
-    "goalsAgainst": "3",
-    "goalDifference": "-2",
-    "points": "1"
-  },
-  {
-    "rank": "19",
-    "team": {
-      "name": "Wolverhampton Wanderers"
-    },
-    "games": "2",
-    "wins": "0",
-    "draws": "0",
-    "losses": "2",
-    "goalsFor": "0",
-    "goalsAgainst": "5",
-    "goalDifference": "-5",
-    "points": "0"
-  },
-  {
-    "rank": "20",
-    "team": {
-      "name": "West Ham United"
-    },
-    "games": "2",
-    "wins": "0",
-    "draws": "0",
-    "losses": "2",
-    "goalsFor": "1",
-    "goalsAgainst": "8",
-    "goalDifference": "-7",
-    "points": "0"
+    "goalDifference": "2",
+    "points": "6"
   }
 ]

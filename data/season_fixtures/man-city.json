@@ -29,8 +29,8 @@
     "HomeTeam": "Brighton",
     "AwayTeam": "Man City",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 38,
