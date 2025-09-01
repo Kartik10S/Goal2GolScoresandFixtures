@@ -1,0 +1,90 @@
+[
+  {
+    "MatchNumber": 13,
+    "RoundNumber": 1,
+    "DateUtc": "2025-09-18 16:45:00Z",
+    "Location": "Jan Breydelstadion",
+    "HomeTeam": "Club Brugge",
+    "AwayTeam": "Monaco",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 19,
+    "RoundNumber": 2,
+    "DateUtc": "2025-09-30 16:45:00Z",
+    "Location": "Stadio di Bergamo",
+    "HomeTeam": "Atalanta",
+    "AwayTeam": "Club Brugge",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 54,
+    "RoundNumber": 3,
+    "DateUtc": "2025-10-22 19:00:00Z",
+    "Location": "Fußball Arena München",
+    "HomeTeam": "Bayern München",
+    "AwayTeam": "Club Brugge",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 69,
+    "RoundNumber": 4,
+    "DateUtc": "2025-11-05 20:00:00Z",
+    "Location": "Jan Breydelstadion",
+    "HomeTeam": "Club Brugge",
+    "AwayTeam": "Barcelona",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 89,
+    "RoundNumber": 5,
+    "DateUtc": "2025-11-26 20:00:00Z",
+    "Location": "Estádio José Alvalade",
+    "HomeTeam": "Sporting CP",
+    "AwayTeam": "Club Brugge",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 106,
+    "RoundNumber": 6,
+    "DateUtc": "2025-12-10 20:00:00Z",
+    "Location": "Jan Breydelstadion",
+    "HomeTeam": "Club Brugge",
+    "AwayTeam": "Arsenal",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 109,
+    "RoundNumber": 7,
+    "DateUtc": "2026-01-20 15:30:00Z",
+    "Location": "Almaty Ortalyk Stadion",
+    "HomeTeam": "Kairat Almaty",
+    "AwayTeam": "Club Brugge",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 137,
+    "RoundNumber": 8,
+    "DateUtc": "2026-01-28 20:00:00Z",
+    "Location": "Jan Breydelstadion",
+    "HomeTeam": "Club Brugge",
+    "AwayTeam": "Marseille",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  }
+]

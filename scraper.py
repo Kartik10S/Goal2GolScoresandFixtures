@@ -203,7 +203,7 @@ TEAM_FIXTURE_URLS = {
 	"heerenveen": "https://fixturedownload.com/feed/json/eredivisie-2025/sc-heerenveen",
 	"sparta-rotterdam": "https://fixturedownload.com/feed/json/eredivisie-2025/sparta-rotterdam",
 	"telstar": "https://fixturedownload.com/feed/json/eredivisie-2025/telstar",
-	"cl-ajax": "https://fixturedownload.com/view/json/champions-league-2025/ajax",
+	"cl-ajax": "https://fixturedownload.com/feed/json/champions-league-2025/ajax",
 	"cl-arsenal": "https://fixturedownload.com/feed/json/champions-league-2025/arsenal",
 	"cl-atlanta": "https://fixturedownload.com/feed/json/champions-league-2025/atalanta",
 	"cl-athletic-club": "https://fixturedownload.com/feed/json/champions-league-2025/athletic-club",

@@ -1,0 +1,90 @@
+[
+  {
+    "MatchNumber": 17,
+    "RoundNumber": 1,
+    "DateUtc": "2025-09-25 19:00:00Z",
+    "Location": "Arena Stuttgart",
+    "HomeTeam": "Stuttgart",
+    "AwayTeam": "Celta",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 32,
+    "RoundNumber": 2,
+    "DateUtc": "2025-10-02 19:00:00Z",
+    "Location": "St. Jakob-Park",
+    "HomeTeam": "Basel",
+    "AwayTeam": "Stuttgart",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 39,
+    "RoundNumber": 3,
+    "DateUtc": "2025-10-23 16:45:00Z",
+    "Location": "Fenerbahçe Sükrü Saracoglu Spor Kompleksi",
+    "HomeTeam": "Fenerbahçe",
+    "AwayTeam": "Stuttgart",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 72,
+    "RoundNumber": 4,
+    "DateUtc": "2025-11-06 20:00:00Z",
+    "Location": "Arena Stuttgart",
+    "HomeTeam": "Stuttgart",
+    "AwayTeam": "Feyenoord",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 89,
+    "RoundNumber": 5,
+    "DateUtc": "2025-11-27 20:00:00Z",
+    "Location": "Stadion De Adelaarshorst",
+    "HomeTeam": "Go Ahead Eagles",
+    "AwayTeam": "Stuttgart",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 98,
+    "RoundNumber": 6,
+    "DateUtc": "2025-12-11 17:45:00Z",
+    "Location": "Arena Stuttgart",
+    "HomeTeam": "Stuttgart",
+    "AwayTeam": "M. Tel-Aviv",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 118,
+    "RoundNumber": 7,
+    "DateUtc": "2026-01-22 20:00:00Z",
+    "Location": "Stadio Olimpico",
+    "HomeTeam": "Roma",
+    "AwayTeam": "Stuttgart",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 141,
+    "RoundNumber": 8,
+    "DateUtc": "2026-01-29 20:00:00Z",
+    "Location": "Arena Stuttgart",
+    "HomeTeam": "Stuttgart",
+    "AwayTeam": "Young Boys",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  }
+]

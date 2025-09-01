@@ -1,0 +1,90 @@
+[
+  {
+    "MatchNumber": 16,
+    "RoundNumber": 1,
+    "DateUtc": "2025-09-25 19:00:00Z",
+    "Location": "Stadion Wankdorf",
+    "HomeTeam": "Young Boys",
+    "AwayTeam": "Panathinaikos",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 26,
+    "RoundNumber": 2,
+    "DateUtc": "2025-10-02 16:45:00Z",
+    "Location": "Olympic Athletic Center of Athens \"Spyros Louis\"",
+    "HomeTeam": "Panathinaikos",
+    "AwayTeam": "Go Ahead Eagles",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 37,
+    "RoundNumber": 3,
+    "DateUtc": "2025-10-23 16:45:00Z",
+    "Location": "Stadion Feijenoord 'De Kuip'",
+    "HomeTeam": "Feyenoord",
+    "AwayTeam": "Panathinaikos",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 62,
+    "RoundNumber": 4,
+    "DateUtc": "2025-11-06 17:45:00Z",
+    "Location": "Malmö New Stadium",
+    "HomeTeam": "Malmö",
+    "AwayTeam": "Panathinaikos",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 88,
+    "RoundNumber": 5,
+    "DateUtc": "2025-11-27 20:00:00Z",
+    "Location": "Olympic Athletic Center of Athens \"Spyros Louis\"",
+    "HomeTeam": "Panathinaikos",
+    "AwayTeam": "Sturm Graz",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 107,
+    "RoundNumber": 6,
+    "DateUtc": "2025-12-11 20:00:00Z",
+    "Location": "Olympic Athletic Center of Athens \"Spyros Louis\"",
+    "HomeTeam": "Panathinaikos",
+    "AwayTeam": "Viktoria Plzen",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 123,
+    "RoundNumber": 7,
+    "DateUtc": "2026-01-22 20:00:00Z",
+    "Location": "Ferencváros Stadion",
+    "HomeTeam": "Ferencváros",
+    "AwayTeam": "Panathinaikos",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 142,
+    "RoundNumber": 8,
+    "DateUtc": "2026-01-29 20:00:00Z",
+    "Location": "Olympic Athletic Center of Athens \"Spyros Louis\"",
+    "HomeTeam": "Panathinaikos",
+    "AwayTeam": "Roma",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  }
+]

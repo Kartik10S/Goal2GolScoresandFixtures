@@ -1,0 +1,90 @@
+[
+  {
+    "MatchNumber": 1,
+    "RoundNumber": 1,
+    "DateUtc": "2025-09-24 16:45:00Z",
+    "Location": "Toumba Stadium",
+    "HomeTeam": "PAOK",
+    "AwayTeam": "M. Tel-Aviv",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 35,
+    "RoundNumber": 2,
+    "DateUtc": "2025-10-02 19:00:00Z",
+    "Location": "ESTADIO ABANCA BALAIDOS",
+    "HomeTeam": "Celta",
+    "AwayTeam": "PAOK",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 47,
+    "RoundNumber": 3,
+    "DateUtc": "2025-10-23 19:00:00Z",
+    "Location": "Stade Pierre Mauroy",
+    "HomeTeam": "Lille",
+    "AwayTeam": "PAOK",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 68,
+    "RoundNumber": 4,
+    "DateUtc": "2025-11-06 20:00:00Z",
+    "Location": "Toumba Stadium",
+    "HomeTeam": "PAOK",
+    "AwayTeam": "Young Boys",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 79,
+    "RoundNumber": 5,
+    "DateUtc": "2025-11-27 17:45:00Z",
+    "Location": "Toumba Stadium",
+    "HomeTeam": "PAOK",
+    "AwayTeam": "Brann",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 95,
+    "RoundNumber": 6,
+    "DateUtc": "2025-12-11 17:45:00Z",
+    "Location": "Ludogorets Arena",
+    "HomeTeam": "Ludogorets",
+    "AwayTeam": "PAOK",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 111,
+    "RoundNumber": 7,
+    "DateUtc": "2026-01-22 17:45:00Z",
+    "Location": "Toumba Stadium",
+    "HomeTeam": "PAOK",
+    "AwayTeam": "Real Betis",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 132,
+    "RoundNumber": 8,
+    "DateUtc": "2026-01-29 20:00:00Z",
+    "Location": "OL Stadium",
+    "HomeTeam": "Lyon",
+    "AwayTeam": "PAOK",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  }
+]

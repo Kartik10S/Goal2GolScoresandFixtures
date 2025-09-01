@@ -1,0 +1,90 @@
+[
+  {
+    "MatchNumber": 11,
+    "RoundNumber": 1,
+    "DateUtc": "2025-09-17 19:00:00Z",
+    "Location": "Anfield",
+    "HomeTeam": "Liverpool",
+    "AwayTeam": "Atleti",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 26,
+    "RoundNumber": 2,
+    "DateUtc": "2025-09-30 19:00:00Z",
+    "Location": "Ali Sami Yen Spor Kompleksi",
+    "HomeTeam": "Galatasaray",
+    "AwayTeam": "Liverpool",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 50,
+    "RoundNumber": 3,
+    "DateUtc": "2025-10-22 19:00:00Z",
+    "Location": "Frankfurt Stadion",
+    "HomeTeam": "Frankfurt",
+    "AwayTeam": "Liverpool",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 58,
+    "RoundNumber": 4,
+    "DateUtc": "2025-11-04 20:00:00Z",
+    "Location": "Anfield",
+    "HomeTeam": "Liverpool",
+    "AwayTeam": "Real Madrid",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 85,
+    "RoundNumber": 5,
+    "DateUtc": "2025-11-26 20:00:00Z",
+    "Location": "Anfield",
+    "HomeTeam": "Liverpool",
+    "AwayTeam": "PSV",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 93,
+    "RoundNumber": 6,
+    "DateUtc": "2025-12-09 20:00:00Z",
+    "Location": "Stadio San Siro",
+    "HomeTeam": "Inter",
+    "AwayTeam": "Liverpool",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 124,
+    "RoundNumber": 7,
+    "DateUtc": "2026-01-21 20:00:00Z",
+    "Location": "Stade de Marseille",
+    "HomeTeam": "Marseille",
+    "AwayTeam": "Liverpool",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 129,
+    "RoundNumber": 8,
+    "DateUtc": "2026-01-28 20:00:00Z",
+    "Location": "Anfield",
+    "HomeTeam": "Liverpool",
+    "AwayTeam": "Qarabag",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  }
+]

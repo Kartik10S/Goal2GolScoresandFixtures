@@ -1,0 +1,90 @@
+[
+  {
+    "MatchNumber": 15,
+    "RoundNumber": 1,
+    "DateUtc": "2025-09-25 19:00:00Z",
+    "Location": "Ferencváros Stadion",
+    "HomeTeam": "Ferencváros",
+    "AwayTeam": "Viktoria Plzen",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 36,
+    "RoundNumber": 2,
+    "DateUtc": "2025-10-02 19:00:00Z",
+    "Location": "KRC Genk Arena",
+    "HomeTeam": "Genk",
+    "AwayTeam": "Ferencváros",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 38,
+    "RoundNumber": 3,
+    "DateUtc": "2025-10-23 16:45:00Z",
+    "Location": "Stadion Salzburg",
+    "HomeTeam": "Salzburg",
+    "AwayTeam": "Ferencváros",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 70,
+    "RoundNumber": 4,
+    "DateUtc": "2025-11-06 20:00:00Z",
+    "Location": "Ferencváros Stadion",
+    "HomeTeam": "Ferencváros",
+    "AwayTeam": "Ludogorets",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 78,
+    "RoundNumber": 5,
+    "DateUtc": "2025-11-27 17:45:00Z",
+    "Location": "Fenerbahçe Sükrü Saracoglu Spor Kompleksi",
+    "HomeTeam": "Fenerbahçe",
+    "AwayTeam": "Ferencváros",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 92,
+    "RoundNumber": 6,
+    "DateUtc": "2025-12-11 17:45:00Z",
+    "Location": "Ferencváros Stadion",
+    "HomeTeam": "Ferencváros",
+    "AwayTeam": "Rangers",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 123,
+    "RoundNumber": 7,
+    "DateUtc": "2026-01-22 20:00:00Z",
+    "Location": "Ferencváros Stadion",
+    "HomeTeam": "Ferencváros",
+    "AwayTeam": "Panathinaikos",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 138,
+    "RoundNumber": 8,
+    "DateUtc": "2026-01-29 20:00:00Z",
+    "Location": "City Ground",
+    "HomeTeam": "Nott'm Forest",
+    "AwayTeam": "Ferencváros",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  }
+]
