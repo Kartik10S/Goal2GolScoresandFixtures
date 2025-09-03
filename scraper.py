@@ -350,7 +350,7 @@ def save_json(content, path):
 
 def fetch_data_for_date(date_str):
     try:
-        url = f"https://prod-public-api.livescore.com/v1/api/app/date/soccer/{date_str}/0"
+        url = f"https://www.livescore.com/en/football/spain/laliga/standings/"
         res = requests.get(url, timeout=20)
         res.raise_for_status()
         return res.json()

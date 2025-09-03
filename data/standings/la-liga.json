@@ -44,6 +44,20 @@
   {
     "rank": "4",
     "team": {
+      "name": "Barcelona"
+    },
+    "games": "3",
+    "wins": "2",
+    "draws": "1",
+    "losses": "0",
+    "goalsFor": "7",
+    "goalsAgainst": "3",
+    "goalDifference": "4",
+    "points": "7"
+  },
+  {
+    "rank": "5",
+    "team": {
       "name": "Espanyol"
     },
     "games": "3",
@@ -54,19 +68,5 @@
     "goalsAgainst": "3",
     "goalDifference": "2",
     "points": "7"
-  },
-  {
-    "rank": "5",
-    "team": {
-      "name": "Barcelona"
-    },
-    "games": "2",
-    "wins": "2",
-    "draws": "0",
-    "losses": "0",
-    "goalsFor": "6",
-    "goalsAgainst": "2",
-    "goalDifference": "4",
-    "points": "6"
   }
 ]

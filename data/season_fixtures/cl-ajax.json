@@ -1,0 +1,90 @@
+[
+  {
+    "MatchNumber": 12,
+    "RoundNumber": 1,
+    "DateUtc": "2025-09-17 19:00:00Z",
+    "Location": "Johan Cruijff ArenA",
+    "HomeTeam": "Ajax",
+    "AwayTeam": "Inter",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 25,
+    "RoundNumber": 2,
+    "DateUtc": "2025-09-30 19:00:00Z",
+    "Location": "Stade de Marseille",
+    "HomeTeam": "Marseille",
+    "AwayTeam": "Ajax",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 48,
+    "RoundNumber": 3,
+    "DateUtc": "2025-10-22 19:00:00Z",
+    "Location": "Stamford Bridge",
+    "HomeTeam": "Chelsea",
+    "AwayTeam": "Ajax",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 70,
+    "RoundNumber": 4,
+    "DateUtc": "2025-11-05 20:00:00Z",
+    "Location": "Johan Cruijff ArenA",
+    "HomeTeam": "Ajax",
+    "AwayTeam": "Galatasaray",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 73,
+    "RoundNumber": 5,
+    "DateUtc": "2025-11-25 17:45:00Z",
+    "Location": "Johan Cruijff ArenA",
+    "HomeTeam": "Ajax",
+    "AwayTeam": "Benfica",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 101,
+    "RoundNumber": 6,
+    "DateUtc": "2025-12-10 17:45:00Z",
+    "Location": "Tofiq Bahramov Republican Stadium",
+    "HomeTeam": "Qarabag",
+    "AwayTeam": "Ajax",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 113,
+    "RoundNumber": 7,
+    "DateUtc": "2026-01-20 20:00:00Z",
+    "Location": "Estadio de la Cerámica",
+    "HomeTeam": "Villarreal",
+    "AwayTeam": "Ajax",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 139,
+    "RoundNumber": 8,
+    "DateUtc": "2026-01-28 20:00:00Z",
+    "Location": "Johan Cruijff ArenA",
+    "HomeTeam": "Ajax",
+    "AwayTeam": "Olympiacos",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  }
+]
