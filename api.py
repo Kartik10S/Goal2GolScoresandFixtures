@@ -109,7 +109,7 @@ def get_standings(league_name: str):
         raise HTTPException(status_code=404, detail=f"Standings not found for league '{league_name}'.")
     return data
 
-@app.get("/api/match/{league_name}/{match_id}")
+@app.get("/api/match/{match_id}")
 def get_matches(league_name: str):
     path = os.path.join(MATCHES_FOLDER, f"{unquote(league_name).lower().replace(' ', '-')}_match.json")
     data = load_json_file(path)
