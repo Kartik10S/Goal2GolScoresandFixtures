@@ -381,7 +381,7 @@ def save_league_fixture_data():
 def save_standings_from_thesportsdb():
     for league_name, league_id in THESPORTSDB_LEAGUE_IDS.items():
         try:
-            url = f"https://int.soccerway.com/national/france/ligue-1/2025-2026/regular-season/2d58bc25-77ec-4425-bed7-30f1839e3f8f/"
+            url = f"https://www.thesportsdb.com/api/v1/json/3/lookuptable.php?l={league_id}&s={CURRENT_SEASON_PARAM}"
             response = requests.get(url, timeout=20)
             response.raise_for_status()
             data = response.json()
