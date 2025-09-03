@@ -350,7 +350,7 @@ def save_json(content, path):
 
 def fetch_data_for_date(date_str):
     try:
-        url = f"https://www.livescore.com/en/football/spain/laliga/standings/"
+        url = f"https://prod-public-api.livescore.com/v1/api/app/date/soccer/{date_str}/0"
         res = requests.get(url, timeout=20)
         res.raise_for_status()
         return res.json()
@@ -381,7 +381,7 @@ def save_league_fixture_data():
 def save_standings_from_thesportsdb():
     for league_name, league_id in THESPORTSDB_LEAGUE_IDS.items():
         try:
-            url = f"https://www.thesportsdb.com/api/v1/json/3/lookuptable.php?l={league_id}&s={CURRENT_SEASON_PARAM}"
+            url = f"https://www.livescore.com/en/football/spain/laliga/standings/"
             response = requests.get(url, timeout=20)
             response.raise_for_status()
             data = response.json()
