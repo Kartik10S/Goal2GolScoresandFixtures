@@ -14,16 +14,13 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(me
 DATA_FOLDER = "data"
 SCHEDULES_FOLDER = os.path.join(DATA_FOLDER, "schedules")
 STANDINGS_FOLDER = os.path.join(DATA_FOLDER, "standings")
-TOPSCORERS_FOLDER = os.path.join(STANDINGS_FOLDER, "topscorers")
+MATCHES_FOLDER = os.path.join(DATA_FOLDER, "matches")
 SEASON_FIXTURES_FOLDER = os.path.join(DATA_FOLDER, "season_fixtures")
 LEAGUE_FIXTURES_FOLDER = os.path.join(DATA_FOLDER, "league_fixtures")
 
-for folder in [SCHEDULES_FOLDER, STANDINGS_FOLDER, TOPSCORERS_FOLDER, SEASON_FIXTURES_FOLDER, LEAGUE_FIXTURES_FOLDER]:
+for folder in [SCHEDULES_FOLDER, STANDINGS_FOLDER, MATCHES_FOLDER, SEASON_FIXTURES_FOLDER, LEAGUE_FIXTURES_FOLDER]:
     os.makedirs(folder, exist_ok=True)
 
-# -----------------------------
-# URLs & Config
-# -----------------------------
 # -----------------------------
 # URLs & Config
 # -----------------------------
@@ -335,7 +332,7 @@ def send_telegram_alert(message: str):
         return
     try:
         url = f"https://api.telegram.org/bot{telegram_bot_token}/sendMessage"
-        payload = {"chat_id": telegram_chatid, "text": f"⚠️ OpenScoreCollector Error:\n{message}"}
+        payload = {"chat_id": telegram_chatid, "text": f"⚠️ Goal2GolScoresandFixtures Error:\n{message}"}
         requests.post(url, json=payload, timeout=10)
     except Exception:
         pass

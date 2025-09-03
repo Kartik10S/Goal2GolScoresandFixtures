@@ -1,8 +1,8 @@
-# OpenScoreCollector - Open-Source Football Data Aggregator
+# Goal2Gol - Scores and Fixtures Aggregator
 
 ## Overview
 
-OpenScoreCollector is an open-source project designed to aggregate and collect live football scores, match statistics, and streaming links from various publicly available sources. This repository serves as a central hub for developers and enthusiasts who want to build applications, tools, or services that utilize live football data.
+Goal2Gol - Scores and Fixtures Aggregator is an open-source project designed to aggregate and collect live football scores, match statistics, and streaming links from various publicly available sources. This repository serves as a central hub for developers and enthusiasts who want to build applications, tools, or services that utilize live football data.
 
 ## Features
 
@@ -14,19 +14,19 @@ OpenScoreCollector is an open-source project designed to aggregate and collect l
 
 ## Installation
 
-To set up and run OpenScoreCollector on your local machine, follow these steps:
+To set up and run Goal2GolScoresandFixtures on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ScoreTVApp/OpenScoreCollector.git
+   git clone https://github.com/Kartik10S/Goal2GolScoresandFixtures
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd OpenScoreCollector
+   cd Goal2GolScoresandFixtures
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd OpenScoreCollector
+   cd Goal2GolScoresandFixtures
    ```
 3. **Create and Activate a Virtual Environment**:
    ```bash
@@ -47,15 +47,16 @@ To set up and run OpenScoreCollector on your local machine, follow these steps:
 
 ## Usage
 
-OpenScoreCollector can be used as a standalone application or integrated into other projects. It provides a RESTful API for accessing the collected data:
+Goal2GolScoresandFixtures can be used as a standalone application or integrated into other projects. It provides a RESTful API for accessing the collected data:
 
 - **GET /api/scores**: Retrieve live scores and match updates.
-- **GET /api/statistics**: Retrieve detailed match statistics.
-- **GET /api/streams**: Retrieve live streaming links.
+- **GET /api/fixture/league_name/**: Season Fixture for league.
+- **GET /api/fixture/league_name/team_name**: Season Fixture for a team by league.
+- **GET api/standings/league_name**: Standings by league name.
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to OpenScoreCollector, please follow these steps:
+We welcome contributions from the community! If you'd like to contribute to Goal2GolScoresandFixtures, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix:
@@ -78,4 +79,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to open an issue or contact us at [admin@storetv.app](mailto:admin@storetv.app).
+If you have any questions, suggestions, or feedback, feel free to open an issue or contact us at [admin@goal2gol.com](mailto:admin@goal2gol.com).
