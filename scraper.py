@@ -381,7 +381,7 @@ def save_league_fixture_data():
 def save_standings_from_thesportsdb():
     for league_name, league_id in THESPORTSDB_LEAGUE_IDS.items():
         try:
-            url = f"https://www.livescore.com/en/football/spain/laliga/standings/"
+            url = f"https://www.flashscore.com/football/france/ligue-1/standings"
             response = requests.get(url, timeout=20)
             response.raise_for_status()
             data = response.json()
