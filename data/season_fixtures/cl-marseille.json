@@ -1,0 +1,90 @@
+[
+  {
+    "MatchNumber": 3,
+    "RoundNumber": 1,
+    "DateUtc": "2025-09-16 19:00:00Z",
+    "Location": "Estadio Santiago Bernabéu",
+    "HomeTeam": "Real Madrid",
+    "AwayTeam": "Marseille",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 25,
+    "RoundNumber": 2,
+    "DateUtc": "2025-09-30 19:00:00Z",
+    "Location": "Stade de Marseille",
+    "HomeTeam": "Marseille",
+    "AwayTeam": "Ajax",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 51,
+    "RoundNumber": 3,
+    "DateUtc": "2025-10-22 19:00:00Z",
+    "Location": "Estádio José Alvalade",
+    "HomeTeam": "Sporting CP",
+    "AwayTeam": "Marseille",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 71,
+    "RoundNumber": 4,
+    "DateUtc": "2025-11-05 20:00:00Z",
+    "Location": "Stade de Marseille",
+    "HomeTeam": "Marseille",
+    "AwayTeam": "Atalanta",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 81,
+    "RoundNumber": 5,
+    "DateUtc": "2025-11-25 20:00:00Z",
+    "Location": "Stade de Marseille",
+    "HomeTeam": "Marseille",
+    "AwayTeam": "Newcastle",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 99,
+    "RoundNumber": 6,
+    "DateUtc": "2025-12-09 20:00:00Z",
+    "Location": "RSC Anderlecht Stadium",
+    "HomeTeam": "Union SG",
+    "AwayTeam": "Marseille",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 124,
+    "RoundNumber": 7,
+    "DateUtc": "2026-01-21 20:00:00Z",
+    "Location": "Stade de Marseille",
+    "HomeTeam": "Marseille",
+    "AwayTeam": "Liverpool",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 137,
+    "RoundNumber": 8,
+    "DateUtc": "2026-01-28 20:00:00Z",
+    "Location": "Jan Breydelstadion",
+    "HomeTeam": "Club Brugge",
+    "AwayTeam": "Marseille",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  }
+]

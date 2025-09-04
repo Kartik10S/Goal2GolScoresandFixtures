@@ -1,0 +1,90 @@
+[
+  {
+    "MatchNumber": 10,
+    "RoundNumber": 1,
+    "DateUtc": "2025-09-25 16:45:00Z",
+    "Location": "Stade Pierre Mauroy",
+    "HomeTeam": "Lille",
+    "AwayTeam": "Brann",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 19,
+    "RoundNumber": 2,
+    "DateUtc": "2025-10-02 16:45:00Z",
+    "Location": "Stadio Olimpico",
+    "HomeTeam": "Roma",
+    "AwayTeam": "Lille",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 47,
+    "RoundNumber": 3,
+    "DateUtc": "2025-10-23 19:00:00Z",
+    "Location": "Stade Pierre Mauroy",
+    "HomeTeam": "Lille",
+    "AwayTeam": "PAOK",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 57,
+    "RoundNumber": 4,
+    "DateUtc": "2025-11-06 17:45:00Z",
+    "Location": "Stadion Rajko Mitic",
+    "HomeTeam": "Crvena Zvezda",
+    "AwayTeam": "Lille",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 76,
+    "RoundNumber": 5,
+    "DateUtc": "2025-11-27 17:45:00Z",
+    "Location": "Stade Pierre Mauroy",
+    "HomeTeam": "Lille",
+    "AwayTeam": "GNK Dinamo",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 93,
+    "RoundNumber": 6,
+    "DateUtc": "2025-12-11 17:45:00Z",
+    "Location": "Stadion Wankdorf",
+    "HomeTeam": "Young Boys",
+    "AwayTeam": "Lille",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 125,
+    "RoundNumber": 7,
+    "DateUtc": "2026-01-22 20:00:00Z",
+    "Location": "ESTADIO ABANCA BALAIDOS",
+    "HomeTeam": "Celta",
+    "AwayTeam": "Lille",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 128,
+    "RoundNumber": 8,
+    "DateUtc": "2026-01-29 20:00:00Z",
+    "Location": "Stade Pierre Mauroy",
+    "HomeTeam": "Lille",
+    "AwayTeam": "Freiburg",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  }
+]

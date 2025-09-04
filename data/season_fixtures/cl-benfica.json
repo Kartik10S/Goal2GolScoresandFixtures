@@ -1,0 +1,90 @@
+[
+  {
+    "MatchNumber": 4,
+    "RoundNumber": 1,
+    "DateUtc": "2025-09-16 19:00:00Z",
+    "Location": "Estádio do SL Benfica",
+    "HomeTeam": "Benfica",
+    "AwayTeam": "Qarabag",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 22,
+    "RoundNumber": 2,
+    "DateUtc": "2025-09-30 19:00:00Z",
+    "Location": "Stamford Bridge",
+    "HomeTeam": "Chelsea",
+    "AwayTeam": "Benfica",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 45,
+    "RoundNumber": 3,
+    "DateUtc": "2025-10-21 19:00:00Z",
+    "Location": "St James' Park",
+    "HomeTeam": "Newcastle",
+    "AwayTeam": "Benfica",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 68,
+    "RoundNumber": 4,
+    "DateUtc": "2025-11-05 20:00:00Z",
+    "Location": "Estádio do SL Benfica",
+    "HomeTeam": "Benfica",
+    "AwayTeam": "Leverkusen",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 73,
+    "RoundNumber": 5,
+    "DateUtc": "2025-11-25 17:45:00Z",
+    "Location": "Johan Cruijff ArenA",
+    "HomeTeam": "Ajax",
+    "AwayTeam": "Benfica",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 104,
+    "RoundNumber": 6,
+    "DateUtc": "2025-12-10 20:00:00Z",
+    "Location": "Estádio do SL Benfica",
+    "HomeTeam": "Benfica",
+    "AwayTeam": "Napoli",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 122,
+    "RoundNumber": 7,
+    "DateUtc": "2026-01-21 20:00:00Z",
+    "Location": "Juventus Stadium",
+    "HomeTeam": "Juventus",
+    "AwayTeam": "Benfica",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 135,
+    "RoundNumber": 8,
+    "DateUtc": "2026-01-28 20:00:00Z",
+    "Location": "Estádio do SL Benfica",
+    "HomeTeam": "Benfica",
+    "AwayTeam": "Real Madrid",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  }
+]

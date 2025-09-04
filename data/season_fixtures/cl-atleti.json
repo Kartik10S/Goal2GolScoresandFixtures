@@ -1,0 +1,90 @@
+[
+  {
+    "MatchNumber": 11,
+    "RoundNumber": 1,
+    "DateUtc": "2025-09-17 19:00:00Z",
+    "Location": "Anfield",
+    "HomeTeam": "Liverpool",
+    "AwayTeam": "Atleti",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 23,
+    "RoundNumber": 2,
+    "DateUtc": "2025-09-30 19:00:00Z",
+    "Location": "Estadio Metropolitano",
+    "HomeTeam": "Atleti",
+    "AwayTeam": "Frankfurt",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 39,
+    "RoundNumber": 3,
+    "DateUtc": "2025-10-21 19:00:00Z",
+    "Location": "Arsenal Stadium",
+    "HomeTeam": "Arsenal",
+    "AwayTeam": "Atleti",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 59,
+    "RoundNumber": 4,
+    "DateUtc": "2025-11-04 20:00:00Z",
+    "Location": "Estadio Metropolitano",
+    "HomeTeam": "Atleti",
+    "AwayTeam": "Union SG",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 87,
+    "RoundNumber": 5,
+    "DateUtc": "2025-11-26 20:00:00Z",
+    "Location": "Estadio Metropolitano",
+    "HomeTeam": "Atleti",
+    "AwayTeam": "Inter",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 97,
+    "RoundNumber": 6,
+    "DateUtc": "2025-12-09 20:00:00Z",
+    "Location": "PSV Stadion",
+    "HomeTeam": "PSV",
+    "AwayTeam": "Atleti",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 118,
+    "RoundNumber": 7,
+    "DateUtc": "2026-01-21 17:45:00Z",
+    "Location": "Ali Sami Yen Spor Kompleksi",
+    "HomeTeam": "Galatasaray",
+    "AwayTeam": "Atleti",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 134,
+    "RoundNumber": 8,
+    "DateUtc": "2026-01-28 20:00:00Z",
+    "Location": "Estadio Metropolitano",
+    "HomeTeam": "Atleti",
+    "AwayTeam": "Bodø/Glimt",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  }
+]

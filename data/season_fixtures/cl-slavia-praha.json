@@ -1,0 +1,90 @@
+[
+  {
+    "MatchNumber": 8,
+    "RoundNumber": 1,
+    "DateUtc": "2025-09-17 16:45:00Z",
+    "Location": "Eden Arena",
+    "HomeTeam": "Slavia Praha",
+    "AwayTeam": "Bodø/Glimt",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 21,
+    "RoundNumber": 2,
+    "DateUtc": "2025-09-30 19:00:00Z",
+    "Location": "Stadio San Siro",
+    "HomeTeam": "Inter",
+    "AwayTeam": "Slavia Praha",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 49,
+    "RoundNumber": 3,
+    "DateUtc": "2025-10-22 19:00:00Z",
+    "Location": "Stadio di Bergamo",
+    "HomeTeam": "Atalanta",
+    "AwayTeam": "Slavia Praha",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 56,
+    "RoundNumber": 4,
+    "DateUtc": "2025-11-04 17:45:00Z",
+    "Location": "Eden Arena",
+    "HomeTeam": "Slavia Praha",
+    "AwayTeam": "Arsenal",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 79,
+    "RoundNumber": 5,
+    "DateUtc": "2025-11-25 20:00:00Z",
+    "Location": "Eden Arena",
+    "HomeTeam": "Slavia Praha",
+    "AwayTeam": "Athletic Club",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 96,
+    "RoundNumber": 6,
+    "DateUtc": "2025-12-09 20:00:00Z",
+    "Location": "Tottenham Hotspur Stadium",
+    "HomeTeam": "Tottenham",
+    "AwayTeam": "Slavia Praha",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 123,
+    "RoundNumber": 7,
+    "DateUtc": "2026-01-21 20:00:00Z",
+    "Location": "Eden Arena",
+    "HomeTeam": "Slavia Praha",
+    "AwayTeam": "Barcelona",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 144,
+    "RoundNumber": 8,
+    "DateUtc": "2026-01-28 20:00:00Z",
+    "Location": "Limassol Stadium",
+    "HomeTeam": "Pafos",
+    "AwayTeam": "Slavia Praha",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  }
+]

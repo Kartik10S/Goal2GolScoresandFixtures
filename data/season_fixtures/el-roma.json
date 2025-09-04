@@ -1,0 +1,90 @@
+[
+  {
+    "MatchNumber": 8,
+    "RoundNumber": 1,
+    "DateUtc": "2025-09-24 19:00:00Z",
+    "Location": "Grand Stade de Nice",
+    "HomeTeam": "Nice",
+    "AwayTeam": "Roma",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 19,
+    "RoundNumber": 2,
+    "DateUtc": "2025-10-02 16:45:00Z",
+    "Location": "Stadio Olimpico",
+    "HomeTeam": "Roma",
+    "AwayTeam": "Lille",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 46,
+    "RoundNumber": 3,
+    "DateUtc": "2025-10-23 19:00:00Z",
+    "Location": "Stadio Olimpico",
+    "HomeTeam": "Roma",
+    "AwayTeam": "Viktoria Plzen",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 64,
+    "RoundNumber": 4,
+    "DateUtc": "2025-11-06 20:00:00Z",
+    "Location": "Ibrox Stadium",
+    "HomeTeam": "Rangers",
+    "AwayTeam": "Roma",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 73,
+    "RoundNumber": 5,
+    "DateUtc": "2025-11-27 17:45:00Z",
+    "Location": "Stadio Olimpico",
+    "HomeTeam": "Roma",
+    "AwayTeam": "Midtjylland",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 102,
+    "RoundNumber": 6,
+    "DateUtc": "2025-12-11 20:00:00Z",
+    "Location": "Celtic Park",
+    "HomeTeam": "Celtic",
+    "AwayTeam": "Roma",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 118,
+    "RoundNumber": 7,
+    "DateUtc": "2026-01-22 20:00:00Z",
+    "Location": "Stadio Olimpico",
+    "HomeTeam": "Roma",
+    "AwayTeam": "Stuttgart",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 142,
+    "RoundNumber": 8,
+    "DateUtc": "2026-01-29 20:00:00Z",
+    "Location": "Olympic Athletic Center of Athens \"Spyros Louis\"",
+    "HomeTeam": "Panathinaikos",
+    "AwayTeam": "Roma",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  }
+]
