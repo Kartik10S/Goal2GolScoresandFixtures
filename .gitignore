@@ -9,3 +9,6 @@ debug.log
 config.py
 /__pycache__
 *.cache
+node_modules/
+.env
+__pycache__/
