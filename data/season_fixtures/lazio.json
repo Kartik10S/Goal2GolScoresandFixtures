@@ -35,7 +35,7 @@
   {
     "MatchNumber": 38,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
+    "DateUtc": "2025-09-21 22:30:00Z",
     "Location": "Olimpico",
     "HomeTeam": "Lazio",
     "AwayTeam": "Roma",
@@ -46,7 +46,7 @@
   {
     "MatchNumber": 43,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
+    "DateUtc": "2025-09-28 18:45:00Z",
     "Location": "Luigi Ferraris",
     "HomeTeam": "Genoa",
     "AwayTeam": "Lazio",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 56,
     "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
+    "DateUtc": "2025-10-04 13:00:00Z",
     "Location": "Olimpico",
     "HomeTeam": "Lazio",
     "AwayTeam": "Torino",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 61,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
+    "DateUtc": "2025-10-19 16:00:00Z",
     "Location": "Atleti Azzurri d'Italia",
     "HomeTeam": "Atalanta",
     "AwayTeam": "Lazio",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 75,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
+    "DateUtc": "2025-10-26 19:45:00Z",
     "Location": "Olimpico",
     "HomeTeam": "Lazio",
     "AwayTeam": "Juventus",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 89,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-30 19:45:00Z",
     "Location": "Garibaldi",
     "HomeTeam": "Pisa",
     "AwayTeam": "Lazio",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 93,
     "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
+    "DateUtc": "2025-11-03 19:45:00Z",
     "Location": "Olimpico",
     "HomeTeam": "Lazio",
     "AwayTeam": "Cagliari",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 105,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-09 14:00:00Z",
+    "DateUtc": "2025-11-09 19:45:00Z",
     "Location": "Giuseppe Meazza",
     "HomeTeam": "Inter",
     "AwayTeam": "Lazio",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 116,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
+    "DateUtc": "2025-11-23 17:00:00Z",
     "Location": "Olimpico",
     "HomeTeam": "Lazio",
     "AwayTeam": "Lecce",

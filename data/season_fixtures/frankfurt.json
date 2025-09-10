@@ -57,7 +57,7 @@
   {
     "MatchNumber": 53,
     "RoundNumber": 6,
-    "DateUtc": "2025-10-04 13:30:00Z",
+    "DateUtc": "2025-10-04 16:30:00Z",
     "Location": "Deutsche Bank Park",
     "HomeTeam": "Eintracht Frankfurt",
     "AwayTeam": "FC Bayern München",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 62,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-18 13:30:00Z",
+    "DateUtc": "2025-10-19 13:30:00Z",
     "Location": "Europa-Park Stadion",
     "HomeTeam": "Sport-Club Freiburg",
     "AwayTeam": "Eintracht Frankfurt",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 89,
     "RoundNumber": 10,
-    "DateUtc": "2025-11-08 14:30:00Z",
+    "DateUtc": "2025-11-09 18:30:00Z",
     "Location": "Deutsche Bank Park",
     "HomeTeam": "Eintracht Frankfurt",
     "AwayTeam": "1. FSV Mainz 05",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 91,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-22 14:30:00Z",
+    "DateUtc": "2025-11-22 17:30:00Z",
     "Location": "RheinEnergieStadion",
     "HomeTeam": "1. FC Köln",
     "AwayTeam": "Eintracht Frankfurt",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 106,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-29 14:30:00Z",
+    "DateUtc": "2025-11-30 16:30:00Z",
     "Location": "Deutsche Bank Park",
     "HomeTeam": "Eintracht Frankfurt",
     "AwayTeam": "VfL Wolfsburg",

@@ -304,8 +304,8 @@
     "HomeTeam": "Kansas City",
     "AwayTeam": "Austin",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2
   },
   {
     "MatchNumber": 442,

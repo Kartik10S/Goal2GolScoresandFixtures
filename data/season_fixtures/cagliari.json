@@ -35,7 +35,7 @@
   {
     "MatchNumber": 39,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
+    "DateUtc": "2025-09-19 18:45:00Z",
     "Location": "Ettore Giardiniero - Via del mare",
     "HomeTeam": "Lecce",
     "AwayTeam": "Cagliari",
@@ -46,7 +46,7 @@
   {
     "MatchNumber": 41,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
+    "DateUtc": "2025-09-27 18:45:00Z",
     "Location": "Unipol Domus",
     "HomeTeam": "Cagliari",
     "AwayTeam": "Inter",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 59,
     "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
+    "DateUtc": "2025-10-05 10:30:00Z",
     "Location": "Friuli",
     "HomeTeam": "Udinese",
     "AwayTeam": "Cagliari",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 83,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-30 17:30:00Z",
     "Location": "Unipol Domus",
     "HomeTeam": "Cagliari",
     "AwayTeam": "Sassuolo",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 93,
     "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
+    "DateUtc": "2025-11-03 19:45:00Z",
     "Location": "Olimpico",
     "HomeTeam": "Lazio",
     "AwayTeam": "Cagliari",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 103,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-09 14:00:00Z",
+    "DateUtc": "2025-11-08 14:00:00Z",
     "Location": "Giuseppe Sinigaglia",
     "HomeTeam": "Como",
     "AwayTeam": "Cagliari",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 112,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
+    "DateUtc": "2025-11-22 14:00:00Z",
     "Location": "Unipol Domus",
     "HomeTeam": "Cagliari",
     "AwayTeam": "Genoa",

@@ -57,7 +57,7 @@
   {
     "MatchNumber": 50,
     "RoundNumber": 6,
-    "DateUtc": "2025-10-04 13:30:00Z",
+    "DateUtc": "2025-10-05 13:30:00Z",
     "Location": "MHPArena",
     "HomeTeam": "VfB Stuttgart",
     "AwayTeam": "1. FC Heidenheim 1846",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 68,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-25 13:30:00Z",
+    "DateUtc": "2025-10-26 16:30:00Z",
     "Location": "MHPArena",
     "HomeTeam": "VfB Stuttgart",
     "AwayTeam": "1. FSV Mainz 05",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 86,
     "RoundNumber": 10,
-    "DateUtc": "2025-11-08 14:30:00Z",
+    "DateUtc": "2025-11-09 16:30:00Z",
     "Location": "MHPArena",
     "HomeTeam": "VfB Stuttgart",
     "AwayTeam": "FC Augsburg",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 100,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-29 14:30:00Z",
+    "DateUtc": "2025-11-30 14:30:00Z",
     "Location": "Volksparkstadion",
     "HomeTeam": "Hamburger SV",
     "AwayTeam": "VfB Stuttgart",

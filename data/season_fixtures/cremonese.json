@@ -46,7 +46,7 @@
   {
     "MatchNumber": 42,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
+    "DateUtc": "2025-09-27 13:00:00Z",
     "Location": "Giuseppe Sinigaglia",
     "HomeTeam": "Como",
     "AwayTeam": "Cremonese",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 54,
     "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
+    "DateUtc": "2025-10-04 16:00:00Z",
     "Location": "Giuseppe Meazza",
     "HomeTeam": "Inter",
     "AwayTeam": "Cremonese",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 64,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
+    "DateUtc": "2025-10-20 18:45:00Z",
     "Location": "Giovanni Zini",
     "HomeTeam": "Cremonese",
     "AwayTeam": "Udinese",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 73,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
+    "DateUtc": "2025-10-25 18:45:00Z",
     "Location": "Giovanni Zini",
     "HomeTeam": "Cremonese",
     "AwayTeam": "Atalanta",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 85,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-29 19:45:00Z",
     "Location": "Luigi Ferraris",
     "HomeTeam": "Genoa",
     "AwayTeam": "Cremonese",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 91,
     "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
+    "DateUtc": "2025-11-01 19:45:00Z",
     "Location": "Giovanni Zini",
     "HomeTeam": "Cremonese",
     "AwayTeam": "Juventus",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 109,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-09 14:00:00Z",
+    "DateUtc": "2025-11-07 19:45:00Z",
     "Location": "Garibaldi",
     "HomeTeam": "Pisa",
     "AwayTeam": "Cremonese",

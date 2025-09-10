@@ -35,7 +35,7 @@
   {
     "MatchNumber": 34,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
+    "DateUtc": "2025-09-20 13:00:00Z",
     "Location": "Renato Dall'Ara",
     "HomeTeam": "Bologna",
     "AwayTeam": "Genoa",
@@ -46,7 +46,7 @@
   {
     "MatchNumber": 43,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
+    "DateUtc": "2025-09-28 18:45:00Z",
     "Location": "Luigi Ferraris",
     "HomeTeam": "Genoa",
     "AwayTeam": "Lazio",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 57,
     "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
+    "DateUtc": "2025-10-05 16:00:00Z",
     "Location": "Diego Armando Maradona",
     "HomeTeam": "Napoli",
     "AwayTeam": "Genoa",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 80,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
+    "DateUtc": "2025-10-26 11:30:00Z",
     "Location": "Olimpico Grande Torino",
     "HomeTeam": "Torino",
     "AwayTeam": "Genoa",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 85,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-29 19:45:00Z",
     "Location": "Luigi Ferraris",
     "HomeTeam": "Genoa",
     "AwayTeam": "Cremonese",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 97,
     "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
+    "DateUtc": "2025-11-03 17:30:00Z",
     "Location": "Mapei Stadium - Città del Tricolore",
     "HomeTeam": "Sassuolo",
     "AwayTeam": "Genoa",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 112,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
+    "DateUtc": "2025-11-22 14:00:00Z",
     "Location": "Unipol Domus",
     "HomeTeam": "Cagliari",
     "AwayTeam": "Genoa",

@@ -35,7 +35,7 @@
   {
     "MatchNumber": 33,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
+    "DateUtc": "2025-09-20 16:00:00Z",
     "Location": "Marcantonio Bentegodi",
     "HomeTeam": "Hellas Verona",
     "AwayTeam": "Juventus",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 60,
     "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
+    "DateUtc": "2025-10-03 18:45:00Z",
     "Location": "Marcantonio Bentegodi",
     "HomeTeam": "Hellas Verona",
     "AwayTeam": "Sassuolo",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 68,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
+    "DateUtc": "2025-10-18 13:00:00Z",
     "Location": "Garibaldi",
     "HomeTeam": "Pisa",
     "AwayTeam": "Hellas Verona",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 84,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-29 19:45:00Z",
     "Location": "Giuseppe Sinigaglia",
     "HomeTeam": "Como",
     "AwayTeam": "Hellas Verona",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 100,
     "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
+    "DateUtc": "2025-11-02 11:30:00Z",
     "Location": "Marcantonio Bentegodi",
     "HomeTeam": "Hellas Verona",
     "AwayTeam": "Inter",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 107,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-09 14:00:00Z",
+    "DateUtc": "2025-11-08 14:00:00Z",
     "Location": "Ettore Giardiniero - Via del mare",
     "HomeTeam": "Lecce",
     "AwayTeam": "Hellas Verona",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 111,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
+    "DateUtc": "2025-11-23 11:30:00Z",
     "Location": "Marcantonio Bentegodi",
     "HomeTeam": "Hellas Verona",
     "AwayTeam": "Parma",

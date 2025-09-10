@@ -35,7 +35,7 @@
   {
     "MatchNumber": 34,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
+    "DateUtc": "2025-09-20 13:00:00Z",
     "Location": "Renato Dall'Ara",
     "HomeTeam": "Bologna",
     "AwayTeam": "Genoa",
@@ -46,7 +46,7 @@
   {
     "MatchNumber": 45,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
+    "DateUtc": "2025-09-28 16:00:00Z",
     "Location": "Ettore Giardiniero - Via del mare",
     "HomeTeam": "Lecce",
     "AwayTeam": "Bologna",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 74,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
+    "DateUtc": "2025-10-26 17:00:00Z",
     "Location": "Artemio Franchi",
     "HomeTeam": "Fiorentina",
     "AwayTeam": "Bologna",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 82,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-29 17:30:00Z",
     "Location": "Renato Dall'Ara",
     "HomeTeam": "Bologna",
     "AwayTeam": "Torino",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 96,
     "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
+    "DateUtc": "2025-11-02 17:00:00Z",
     "Location": "Ennio Tardini",
     "HomeTeam": "Parma",
     "AwayTeam": "Bologna",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 120,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
+    "DateUtc": "2025-11-22 14:00:00Z",
     "Location": "Friuli",
     "HomeTeam": "Udinese",
     "AwayTeam": "Bologna",

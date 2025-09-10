@@ -57,7 +57,7 @@
   {
     "MatchNumber": 53,
     "RoundNumber": 6,
-    "DateUtc": "2025-10-04 13:30:00Z",
+    "DateUtc": "2025-10-04 16:30:00Z",
     "Location": "Deutsche Bank Park",
     "HomeTeam": "Eintracht Frankfurt",
     "AwayTeam": "FC Bayern München",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 63,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-18 13:30:00Z",
+    "DateUtc": "2025-10-18 16:30:00Z",
     "Location": "Allianz Arena",
     "HomeTeam": "FC Bayern München",
     "AwayTeam": "Borussia Dortmund",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 81,
     "RoundNumber": 9,
-    "DateUtc": "2025-11-01 14:30:00Z",
+    "DateUtc": "2025-11-01 17:30:00Z",
     "Location": "Allianz Arena",
     "HomeTeam": "FC Bayern München",
     "AwayTeam": "Bayer 04 Leverkusen",

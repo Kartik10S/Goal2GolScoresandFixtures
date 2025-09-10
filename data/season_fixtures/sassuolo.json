@@ -35,7 +35,7 @@
   {
     "MatchNumber": 37,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
+    "DateUtc": "2025-09-21 18:45:00Z",
     "Location": "Giuseppe Meazza",
     "HomeTeam": "Inter",
     "AwayTeam": "Sassuolo",
@@ -46,7 +46,7 @@
   {
     "MatchNumber": 50,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
+    "DateUtc": "2025-09-28 10:30:00Z",
     "Location": "Mapei Stadium - Città del Tricolore",
     "HomeTeam": "Sassuolo",
     "AwayTeam": "Udinese",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 60,
     "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
+    "DateUtc": "2025-10-03 18:45:00Z",
     "Location": "Marcantonio Bentegodi",
     "HomeTeam": "Hellas Verona",
     "AwayTeam": "Sassuolo",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 66,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
+    "DateUtc": "2025-10-18 13:00:00Z",
     "Location": "Ettore Giardiniero - Via del mare",
     "HomeTeam": "Lecce",
     "AwayTeam": "Sassuolo",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 83,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-30 17:30:00Z",
     "Location": "Unipol Domus",
     "HomeTeam": "Cagliari",
     "AwayTeam": "Sassuolo",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 97,
     "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
+    "DateUtc": "2025-11-03 17:30:00Z",
     "Location": "Mapei Stadium - Città del Tricolore",
     "HomeTeam": "Sassuolo",
     "AwayTeam": "Genoa",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 101,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-09 14:00:00Z",
+    "DateUtc": "2025-11-09 11:30:00Z",
     "Location": "Atleti Azzurri d'Italia",
     "HomeTeam": "Atalanta",
     "AwayTeam": "Sassuolo",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 118,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
+    "DateUtc": "2025-11-24 19:45:00Z",
     "Location": "Mapei Stadium - Città del Tricolore",
     "HomeTeam": "Sassuolo",
     "AwayTeam": "Pisa",

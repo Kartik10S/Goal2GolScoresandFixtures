@@ -35,7 +35,7 @@
   {
     "MatchNumber": 40,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
+    "DateUtc": "2025-09-22 18:45:00Z",
     "Location": "Diego Armando Maradona",
     "HomeTeam": "Napoli",
     "AwayTeam": "Pisa",
@@ -46,7 +46,7 @@
   {
     "MatchNumber": 46,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
+    "DateUtc": "2025-09-28 18:45:00Z",
     "Location": "San Siro",
     "HomeTeam": "Milan",
     "AwayTeam": "Napoli",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 57,
     "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
+    "DateUtc": "2025-10-05 16:00:00Z",
     "Location": "Diego Armando Maradona",
     "HomeTeam": "Napoli",
     "AwayTeam": "Genoa",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 70,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
+    "DateUtc": "2025-10-18 16:00:00Z",
     "Location": "Olimpico Grande Torino",
     "HomeTeam": "Torino",
     "AwayTeam": "Napoli",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 77,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
+    "DateUtc": "2025-10-25 16:00:00Z",
     "Location": "Diego Armando Maradona",
     "HomeTeam": "Napoli",
     "AwayTeam": "Inter",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 88,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-28 17:30:00Z",
     "Location": "Ettore Giardiniero - Via del mare",
     "HomeTeam": "Lecce",
     "AwayTeam": "Napoli",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 95,
     "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
+    "DateUtc": "2025-11-01 17:00:00Z",
     "Location": "Diego Armando Maradona",
     "HomeTeam": "Napoli",
     "AwayTeam": "Como",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 117,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
+    "DateUtc": "2025-11-22 19:45:00Z",
     "Location": "Diego Armando Maradona",
     "HomeTeam": "Napoli",
     "AwayTeam": "Atalanta",

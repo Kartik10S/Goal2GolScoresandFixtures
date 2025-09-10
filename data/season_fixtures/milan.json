@@ -35,7 +35,7 @@
   {
     "MatchNumber": 32,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
+    "DateUtc": "2025-09-20 18:45:00Z",
     "Location": "Friuli",
     "HomeTeam": "Udinese",
     "AwayTeam": "Milan",
@@ -46,7 +46,7 @@
   {
     "MatchNumber": 46,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
+    "DateUtc": "2025-09-28 18:45:00Z",
     "Location": "San Siro",
     "HomeTeam": "Milan",
     "AwayTeam": "Napoli",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 55,
     "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
+    "DateUtc": "2025-10-05 18:45:00Z",
     "Location": "Juventus Stadium",
     "HomeTeam": "Juventus",
     "AwayTeam": "Milan",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 67,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
+    "DateUtc": "2025-10-19 18:45:00Z",
     "Location": "San Siro",
     "HomeTeam": "Milan",
     "AwayTeam": "Fiorentina",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 76,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
+    "DateUtc": "2025-10-24 18:45:00Z",
     "Location": "San Siro",
     "HomeTeam": "Milan",
     "AwayTeam": "Pisa",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 81,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-28 19:45:00Z",
     "Location": "Atleti Azzurri d'Italia",
     "HomeTeam": "Atalanta",
     "AwayTeam": "Milan",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 94,
     "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
+    "DateUtc": "2025-11-02 19:45:00Z",
     "Location": "San Siro",
     "HomeTeam": "Milan",
     "AwayTeam": "Roma",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 108,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-09 14:00:00Z",
+    "DateUtc": "2025-11-08 19:45:00Z",
     "Location": "Ennio Tardini",
     "HomeTeam": "Parma",
     "AwayTeam": "Milan",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 115,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
+    "DateUtc": "2025-11-23 19:45:00Z",
     "Location": "Giuseppe Meazza",
     "HomeTeam": "Inter",
     "AwayTeam": "Milan",

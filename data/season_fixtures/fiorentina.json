@@ -35,7 +35,7 @@
   {
     "MatchNumber": 36,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
+    "DateUtc": "2025-09-21 16:00:00Z",
     "Location": "Artemio Franchi",
     "HomeTeam": "Fiorentina",
     "AwayTeam": "Como",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 67,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
+    "DateUtc": "2025-10-19 18:45:00Z",
     "Location": "San Siro",
     "HomeTeam": "Milan",
     "AwayTeam": "Fiorentina",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 74,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
+    "DateUtc": "2025-10-26 17:00:00Z",
     "Location": "Artemio Franchi",
     "HomeTeam": "Fiorentina",
     "AwayTeam": "Bologna",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 86,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-29 19:45:00Z",
     "Location": "Giuseppe Meazza",
     "HomeTeam": "Inter",
     "AwayTeam": "Fiorentina",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 114,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
+    "DateUtc": "2025-11-22 17:00:00Z",
     "Location": "Artemio Franchi",
     "HomeTeam": "Fiorentina",
     "AwayTeam": "Juventus",
