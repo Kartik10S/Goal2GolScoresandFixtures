@@ -35,7 +35,7 @@
   {
     "MatchNumber": 36,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-13 22:00:00Z",
+    "DateUtc": "2025-09-14 15:15:00Z",
     "Location": "Stade de la Meinau",
     "HomeTeam": "RC Strasbourg Alsace",
     "AwayTeam": "Havre Athletic Club",
@@ -46,7 +46,7 @@
   {
     "MatchNumber": 45,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
+    "DateUtc": "2025-09-21 13:00:00Z",
     "Location": "Stade Charléty",
     "HomeTeam": "Paris FC",
     "AwayTeam": "RC Strasbourg Alsace",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 53,
     "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
+    "DateUtc": "2025-09-26 18:45:00Z",
     "Location": "Stade de la Meinau",
     "HomeTeam": "RC Strasbourg Alsace",
     "AwayTeam": "Olympique de Marseille",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 63,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
+    "DateUtc": "2025-10-05 15:15:00Z",
     "Location": "Stade de la Meinau",
     "HomeTeam": "RC Strasbourg Alsace",
     "AwayTeam": "Angers SCO",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 70,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
+    "DateUtc": "2025-10-17 18:45:00Z",
     "Location": "Parc des Princes",
     "HomeTeam": "Paris Saint-Germain",
     "AwayTeam": "RC Strasbourg Alsace",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 78,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
+    "DateUtc": "2025-10-26 19:45:00Z",
     "Location": "Parc Olympique Lyonnais",
     "HomeTeam": "Olympique Lyonnais",
     "AwayTeam": "RC Strasbourg Alsace",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 89,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 20:05:00Z",
     "Location": "Stade de la Meinau",
     "HomeTeam": "RC Strasbourg Alsace",
     "AwayTeam": "AJ Auxerre",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 98,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
+    "DateUtc": "2025-11-02 14:00:00Z",
     "Location": "Roazhon Park",
     "HomeTeam": "Stade Rennais FC",
     "AwayTeam": "RC Strasbourg Alsace",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 108,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
+    "DateUtc": "2025-11-09 16:15:00Z",
     "Location": "Stade de la Meinau",
     "HomeTeam": "RC Strasbourg Alsace",
     "AwayTeam": "LOSC Lille",

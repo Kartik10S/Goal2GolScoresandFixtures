@@ -297,31 +297,9 @@
     "AwayTeamScore": 0
   },
   {
-    "MatchNumber": 28,
-    "RoundNumber": 4,
-    "DateUtc": "2025-09-13 22:00:00Z",
-    "Location": "Stade de l'Abbé-Deschamps",
-    "HomeTeam": "AJ Auxerre",
-    "AwayTeam": "AS Monaco",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 30,
-    "RoundNumber": 4,
-    "DateUtc": "2025-09-13 22:00:00Z",
-    "Location": "Stade Pierre-Mauroy",
-    "HomeTeam": "LOSC Lille",
-    "AwayTeam": "Toulouse FC",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 31,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-13 22:00:00Z",
+    "DateUtc": "2025-09-12 18:45:00Z",
     "Location": "Stade Vélodrome",
     "HomeTeam": "Olympique de Marseille",
     "AwayTeam": "FC Lorient",
@@ -332,7 +310,7 @@
   {
     "MatchNumber": 33,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-13 22:00:00Z",
+    "DateUtc": "2025-09-13 15:00:00Z",
     "Location": "Allianz Riviera",
     "HomeTeam": "OGC Nice",
     "AwayTeam": "FC Nantes",
@@ -341,34 +319,23 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 34,
+    "MatchNumber": 28,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-13 22:00:00Z",
-    "Location": "Parc des Princes",
-    "HomeTeam": "Paris Saint-Germain",
-    "AwayTeam": "RC Lens",
+    "DateUtc": "2025-09-13 19:05:00Z",
+    "Location": "Stade de l'Abbé-Deschamps",
+    "HomeTeam": "AJ Auxerre",
+    "AwayTeam": "AS Monaco",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 35,
+    "MatchNumber": 30,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-13 22:00:00Z",
-    "Location": "Roazhon Park",
-    "HomeTeam": "Stade Rennais FC",
-    "AwayTeam": "Olympique Lyonnais",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 36,
-    "RoundNumber": 4,
-    "DateUtc": "2025-09-13 22:00:00Z",
-    "Location": "Stade de la Meinau",
-    "HomeTeam": "RC Strasbourg Alsace",
-    "AwayTeam": "Havre Athletic Club",
+    "DateUtc": "2025-09-14 13:00:00Z",
+    "Location": "Stade Pierre-Mauroy",
+    "HomeTeam": "LOSC Lille",
+    "AwayTeam": "Toulouse FC",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -396,45 +363,34 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 37,
-    "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
-    "Location": "Stade de l'Abbé-Deschamps",
-    "HomeTeam": "AJ Auxerre",
-    "AwayTeam": "Toulouse FC",
+    "MatchNumber": 34,
+    "RoundNumber": 4,
+    "DateUtc": "2025-09-14 15:15:00Z",
+    "Location": "Parc des Princes",
+    "HomeTeam": "Paris Saint-Germain",
+    "AwayTeam": "RC Lens",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 38,
-    "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
-    "Location": "Stade Francis-Le Blé",
-    "HomeTeam": "Stade Brestois 29",
-    "AwayTeam": "OGC Nice",
+    "MatchNumber": 36,
+    "RoundNumber": 4,
+    "DateUtc": "2025-09-14 15:15:00Z",
+    "Location": "Stade de la Meinau",
+    "HomeTeam": "RC Strasbourg Alsace",
+    "AwayTeam": "Havre Athletic Club",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 39,
-    "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
-    "Location": "Stade Océane",
-    "HomeTeam": "Havre Athletic Club",
-    "AwayTeam": "FC Lorient",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 40,
-    "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
-    "Location": "Stade Bollaert-Delelis",
-    "HomeTeam": "RC Lens",
-    "AwayTeam": "LOSC Lille",
+    "MatchNumber": 35,
+    "RoundNumber": 4,
+    "DateUtc": "2025-09-14 18:45:00Z",
+    "Location": "Roazhon Park",
+    "HomeTeam": "Stade Rennais FC",
+    "AwayTeam": "Olympique Lyonnais",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -442,7 +398,7 @@
   {
     "MatchNumber": 41,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
+    "DateUtc": "2025-09-19 18:45:00Z",
     "Location": "Parc Olympique Lyonnais",
     "HomeTeam": "Olympique Lyonnais",
     "AwayTeam": "Angers SCO",
@@ -451,31 +407,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 42,
-    "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
-    "Location": "Stade Vélodrome",
-    "HomeTeam": "Olympique de Marseille",
-    "AwayTeam": "Paris Saint-Germain",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 43,
-    "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
-    "Location": "Stade Louis II",
-    "HomeTeam": "AS Monaco",
-    "AwayTeam": "FC Metz",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 44,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
+    "DateUtc": "2025-09-20 15:00:00Z",
     "Location": "Stade de la Beaujoire",
     "HomeTeam": "FC Nantes",
     "AwayTeam": "Stade Rennais FC",
@@ -484,9 +418,31 @@
     "AwayTeamScore": null
   },
   {
+    "MatchNumber": 38,
+    "RoundNumber": 5,
+    "DateUtc": "2025-09-20 17:00:00Z",
+    "Location": "Stade Francis-Le Blé",
+    "HomeTeam": "Stade Brestois 29",
+    "AwayTeam": "OGC Nice",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 40,
+    "RoundNumber": 5,
+    "DateUtc": "2025-09-20 19:05:00Z",
+    "Location": "Stade Bollaert-Delelis",
+    "HomeTeam": "RC Lens",
+    "AwayTeam": "LOSC Lille",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
     "MatchNumber": 45,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
+    "DateUtc": "2025-09-21 13:00:00Z",
     "Location": "Stade Charléty",
     "HomeTeam": "Paris FC",
     "AwayTeam": "RC Strasbourg Alsace",
@@ -495,9 +451,108 @@
     "AwayTeamScore": null
   },
   {
+    "MatchNumber": 37,
+    "RoundNumber": 5,
+    "DateUtc": "2025-09-21 15:15:00Z",
+    "Location": "Stade de l'Abbé-Deschamps",
+    "HomeTeam": "AJ Auxerre",
+    "AwayTeam": "Toulouse FC",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 39,
+    "RoundNumber": 5,
+    "DateUtc": "2025-09-21 15:15:00Z",
+    "Location": "Stade Océane",
+    "HomeTeam": "Havre Athletic Club",
+    "AwayTeam": "FC Lorient",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 43,
+    "RoundNumber": 5,
+    "DateUtc": "2025-09-21 15:15:00Z",
+    "Location": "Stade Louis II",
+    "HomeTeam": "AS Monaco",
+    "AwayTeam": "FC Metz",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 42,
+    "RoundNumber": 5,
+    "DateUtc": "2025-09-21 18:45:00Z",
+    "Location": "Stade Vélodrome",
+    "HomeTeam": "Olympique de Marseille",
+    "AwayTeam": "Paris Saint-Germain",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 53,
+    "RoundNumber": 6,
+    "DateUtc": "2025-09-26 18:45:00Z",
+    "Location": "Stade de la Meinau",
+    "HomeTeam": "RC Strasbourg Alsace",
+    "AwayTeam": "Olympique de Marseille",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 48,
+    "RoundNumber": 6,
+    "DateUtc": "2025-09-27 15:00:00Z",
+    "Location": "Stade du Moustoir",
+    "HomeTeam": "FC Lorient",
+    "AwayTeam": "AS Monaco",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 54,
+    "RoundNumber": 6,
+    "DateUtc": "2025-09-27 17:00:00Z",
+    "Location": "Stadium de Toulouse",
+    "HomeTeam": "Toulouse FC",
+    "AwayTeam": "FC Nantes",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 51,
+    "RoundNumber": 6,
+    "DateUtc": "2025-09-27 19:05:00Z",
+    "Location": "Parc des Princes",
+    "HomeTeam": "Paris Saint-Germain",
+    "AwayTeam": "AJ Auxerre",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 50,
+    "RoundNumber": 6,
+    "DateUtc": "2025-09-28 13:00:00Z",
+    "Location": "Allianz Riviera",
+    "HomeTeam": "OGC Nice",
+    "AwayTeam": "Paris FC",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
     "MatchNumber": 46,
     "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
+    "DateUtc": "2025-09-28 15:15:00Z",
     "Location": "Stade Raymond Kopa",
     "HomeTeam": "Angers SCO",
     "AwayTeam": "Stade Brestois 29",
@@ -508,7 +563,7 @@
   {
     "MatchNumber": 47,
     "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
+    "DateUtc": "2025-09-28 15:15:00Z",
     "Location": "Stade Pierre-Mauroy",
     "HomeTeam": "LOSC Lille",
     "AwayTeam": "Olympique Lyonnais",
@@ -517,20 +572,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 48,
-    "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
-    "Location": "Stade du Moustoir",
-    "HomeTeam": "FC Lorient",
-    "AwayTeam": "AS Monaco",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 49,
     "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
+    "DateUtc": "2025-09-28 15:15:00Z",
     "Location": "Stade Saint-Symphorien",
     "HomeTeam": "FC Metz",
     "AwayTeam": "Havre Athletic Club",
@@ -539,31 +583,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 50,
-    "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
-    "Location": "Allianz Riviera",
-    "HomeTeam": "OGC Nice",
-    "AwayTeam": "Paris FC",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 51,
-    "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
-    "Location": "Parc des Princes",
-    "HomeTeam": "Paris Saint-Germain",
-    "AwayTeam": "AJ Auxerre",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 52,
     "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
+    "DateUtc": "2025-09-28 18:45:00Z",
     "Location": "Roazhon Park",
     "HomeTeam": "Stade Rennais FC",
     "AwayTeam": "RC Lens",
@@ -572,108 +594,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 53,
-    "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
-    "Location": "Stade de la Meinau",
-    "HomeTeam": "RC Strasbourg Alsace",
-    "AwayTeam": "Olympique de Marseille",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 54,
-    "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
-    "Location": "Stadium de Toulouse",
-    "HomeTeam": "Toulouse FC",
-    "AwayTeam": "FC Nantes",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 55,
-    "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
-    "Location": "Stade de l'Abbé-Deschamps",
-    "HomeTeam": "AJ Auxerre",
-    "AwayTeam": "RC Lens",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 56,
-    "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
-    "Location": "Stade Francis-Le Blé",
-    "HomeTeam": "Stade Brestois 29",
-    "AwayTeam": "FC Nantes",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 57,
-    "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
-    "Location": "Stade Océane",
-    "HomeTeam": "Havre Athletic Club",
-    "AwayTeam": "Stade Rennais FC",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 58,
-    "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
-    "Location": "Stade Pierre-Mauroy",
-    "HomeTeam": "LOSC Lille",
-    "AwayTeam": "Paris Saint-Germain",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 59,
-    "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
-    "Location": "Parc Olympique Lyonnais",
-    "HomeTeam": "Olympique Lyonnais",
-    "AwayTeam": "Toulouse FC",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 60,
-    "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
-    "Location": "Stade Saint-Symphorien",
-    "HomeTeam": "FC Metz",
-    "AwayTeam": "Olympique de Marseille",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 61,
-    "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
-    "Location": "Stade Louis II",
-    "HomeTeam": "AS Monaco",
-    "AwayTeam": "OGC Nice",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 62,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
+    "DateUtc": "2025-10-03 18:45:00Z",
     "Location": "Stade Charléty",
     "HomeTeam": "Paris FC",
     "AwayTeam": "FC Lorient",
@@ -682,9 +605,75 @@
     "AwayTeamScore": null
   },
   {
+    "MatchNumber": 60,
+    "RoundNumber": 7,
+    "DateUtc": "2025-10-04 15:00:00Z",
+    "Location": "Stade Saint-Symphorien",
+    "HomeTeam": "FC Metz",
+    "AwayTeam": "Olympique de Marseille",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 56,
+    "RoundNumber": 7,
+    "DateUtc": "2025-10-04 17:00:00Z",
+    "Location": "Stade Francis-Le Blé",
+    "HomeTeam": "Stade Brestois 29",
+    "AwayTeam": "FC Nantes",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 55,
+    "RoundNumber": 7,
+    "DateUtc": "2025-10-04 19:05:00Z",
+    "Location": "Stade de l'Abbé-Deschamps",
+    "HomeTeam": "AJ Auxerre",
+    "AwayTeam": "RC Lens",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 59,
+    "RoundNumber": 7,
+    "DateUtc": "2025-10-05 13:00:00Z",
+    "Location": "Parc Olympique Lyonnais",
+    "HomeTeam": "Olympique Lyonnais",
+    "AwayTeam": "Toulouse FC",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 57,
+    "RoundNumber": 7,
+    "DateUtc": "2025-10-05 15:15:00Z",
+    "Location": "Stade Océane",
+    "HomeTeam": "Havre Athletic Club",
+    "AwayTeam": "Stade Rennais FC",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 61,
+    "RoundNumber": 7,
+    "DateUtc": "2025-10-05 15:15:00Z",
+    "Location": "Stade Louis II",
+    "HomeTeam": "AS Monaco",
+    "AwayTeam": "OGC Nice",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
     "MatchNumber": 63,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
+    "DateUtc": "2025-10-05 15:15:00Z",
     "Location": "Stade de la Meinau",
     "HomeTeam": "RC Strasbourg Alsace",
     "AwayTeam": "Angers SCO",
@@ -693,9 +682,42 @@
     "AwayTeamScore": null
   },
   {
+    "MatchNumber": 58,
+    "RoundNumber": 7,
+    "DateUtc": "2025-10-05 18:45:00Z",
+    "Location": "Stade Pierre-Mauroy",
+    "HomeTeam": "LOSC Lille",
+    "AwayTeam": "Paris Saint-Germain",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 70,
+    "RoundNumber": 8,
+    "DateUtc": "2025-10-17 18:45:00Z",
+    "Location": "Parc des Princes",
+    "HomeTeam": "Paris Saint-Germain",
+    "AwayTeam": "RC Strasbourg Alsace",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 69,
+    "RoundNumber": 8,
+    "DateUtc": "2025-10-18 15:00:00Z",
+    "Location": "Allianz Riviera",
+    "HomeTeam": "OGC Nice",
+    "AwayTeam": "Olympique Lyonnais",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
     "MatchNumber": 64,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
+    "DateUtc": "2025-10-18 17:00:00Z",
     "Location": "Stade Raymond Kopa",
     "HomeTeam": "Angers SCO",
     "AwayTeam": "AS Monaco",
@@ -704,9 +726,20 @@
     "AwayTeamScore": null
   },
   {
+    "MatchNumber": 67,
+    "RoundNumber": 8,
+    "DateUtc": "2025-10-18 19:05:00Z",
+    "Location": "Stade Vélodrome",
+    "HomeTeam": "Olympique de Marseille",
+    "AwayTeam": "Havre Athletic Club",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
     "MatchNumber": 65,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
+    "DateUtc": "2025-10-19 13:00:00Z",
     "Location": "Stade Bollaert-Delelis",
     "HomeTeam": "RC Lens",
     "AwayTeam": "Paris FC",
@@ -717,7 +750,7 @@
   {
     "MatchNumber": 66,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
+    "DateUtc": "2025-10-19 15:15:00Z",
     "Location": "Stade du Moustoir",
     "HomeTeam": "FC Lorient",
     "AwayTeam": "Stade Brestois 29",
@@ -726,53 +759,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 67,
-    "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
-    "Location": "Stade Vélodrome",
-    "HomeTeam": "Olympique de Marseille",
-    "AwayTeam": "Havre Athletic Club",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 68,
-    "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
-    "Location": "Stade de la Beaujoire",
-    "HomeTeam": "FC Nantes",
-    "AwayTeam": "LOSC Lille",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 69,
-    "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
-    "Location": "Allianz Riviera",
-    "HomeTeam": "OGC Nice",
-    "AwayTeam": "Olympique Lyonnais",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 70,
-    "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
-    "Location": "Parc des Princes",
-    "HomeTeam": "Paris Saint-Germain",
-    "AwayTeam": "RC Strasbourg Alsace",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 71,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
+    "DateUtc": "2025-10-19 15:15:00Z",
     "Location": "Roazhon Park",
     "HomeTeam": "Stade Rennais FC",
     "AwayTeam": "AJ Auxerre",
@@ -783,7 +772,7 @@
   {
     "MatchNumber": 72,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
+    "DateUtc": "2025-10-19 15:15:00Z",
     "Location": "Stadium de Toulouse",
     "HomeTeam": "Toulouse FC",
     "AwayTeam": "FC Metz",
@@ -792,23 +781,23 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 73,
-    "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
-    "Location": "Stade Raymond Kopa",
-    "HomeTeam": "Angers SCO",
-    "AwayTeam": "FC Lorient",
+    "MatchNumber": 68,
+    "RoundNumber": 8,
+    "DateUtc": "2025-10-19 18:45:00Z",
+    "Location": "Stade de la Beaujoire",
+    "HomeTeam": "FC Nantes",
+    "AwayTeam": "LOSC Lille",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 74,
+    "MatchNumber": 80,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
-    "Location": "Stade de l'Abbé-Deschamps",
-    "HomeTeam": "AJ Auxerre",
-    "AwayTeam": "Havre Athletic Club",
+    "DateUtc": "2025-10-24 18:45:00Z",
+    "Location": "Stade Charléty",
+    "HomeTeam": "Paris FC",
+    "AwayTeam": "FC Nantes",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -816,7 +805,7 @@
   {
     "MatchNumber": 75,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
+    "DateUtc": "2025-10-25 15:00:00Z",
     "Location": "Stade Francis-Le Blé",
     "HomeTeam": "Stade Brestois 29",
     "AwayTeam": "Paris Saint-Germain",
@@ -825,9 +814,20 @@
     "AwayTeamScore": null
   },
   {
+    "MatchNumber": 79,
+    "RoundNumber": 9,
+    "DateUtc": "2025-10-25 17:00:00Z",
+    "Location": "Stade Louis II",
+    "HomeTeam": "AS Monaco",
+    "AwayTeam": "Toulouse FC",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
     "MatchNumber": 76,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
+    "DateUtc": "2025-10-25 19:05:00Z",
     "Location": "Stade Bollaert-Delelis",
     "HomeTeam": "RC Lens",
     "AwayTeam": "Olympique de Marseille",
@@ -838,7 +838,7 @@
   {
     "MatchNumber": 77,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
+    "DateUtc": "2025-10-26 14:00:00Z",
     "Location": "Stade Pierre-Mauroy",
     "HomeTeam": "LOSC Lille",
     "AwayTeam": "FC Metz",
@@ -847,34 +847,23 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 78,
+    "MatchNumber": 73,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
-    "Location": "Parc Olympique Lyonnais",
-    "HomeTeam": "Olympique Lyonnais",
-    "AwayTeam": "RC Strasbourg Alsace",
+    "DateUtc": "2025-10-26 16:15:00Z",
+    "Location": "Stade Raymond Kopa",
+    "HomeTeam": "Angers SCO",
+    "AwayTeam": "FC Lorient",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 79,
+    "MatchNumber": 74,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
-    "Location": "Stade Louis II",
-    "HomeTeam": "AS Monaco",
-    "AwayTeam": "Toulouse FC",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 80,
-    "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
-    "Location": "Stade Charléty",
-    "HomeTeam": "Paris FC",
-    "AwayTeam": "FC Nantes",
+    "DateUtc": "2025-10-26 16:15:00Z",
+    "Location": "Stade de l'Abbé-Deschamps",
+    "HomeTeam": "AJ Auxerre",
+    "AwayTeam": "Havre Athletic Club",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -882,7 +871,7 @@
   {
     "MatchNumber": 81,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
+    "DateUtc": "2025-10-26 16:15:00Z",
     "Location": "Roazhon Park",
     "HomeTeam": "Stade Rennais FC",
     "AwayTeam": "OGC Nice",
@@ -891,9 +880,20 @@
     "AwayTeamScore": null
   },
   {
+    "MatchNumber": 78,
+    "RoundNumber": 9,
+    "DateUtc": "2025-10-26 19:45:00Z",
+    "Location": "Parc Olympique Lyonnais",
+    "HomeTeam": "Olympique Lyonnais",
+    "AwayTeam": "RC Strasbourg Alsace",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
     "MatchNumber": 82,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 18:00:00Z",
     "Location": "Stade Océane",
     "HomeTeam": "Havre Athletic Club",
     "AwayTeam": "Stade Brestois 29",
@@ -904,7 +904,7 @@
   {
     "MatchNumber": 83,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 18:00:00Z",
     "Location": "Stade du Moustoir",
     "HomeTeam": "FC Lorient",
     "AwayTeam": "Paris Saint-Germain",
@@ -913,20 +913,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 84,
-    "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
-    "Location": "Stade Vélodrome",
-    "HomeTeam": "Olympique de Marseille",
-    "AwayTeam": "Angers SCO",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 85,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 18:00:00Z",
     "Location": "Stade Saint-Symphorien",
     "HomeTeam": "FC Metz",
     "AwayTeam": "RC Lens",
@@ -935,20 +924,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 86,
-    "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
-    "Location": "Stade de la Beaujoire",
-    "HomeTeam": "FC Nantes",
-    "AwayTeam": "AS Monaco",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 87,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 18:00:00Z",
     "Location": "Allianz Riviera",
     "HomeTeam": "OGC Nice",
     "AwayTeam": "LOSC Lille",
@@ -957,9 +935,31 @@
     "AwayTeamScore": null
   },
   {
+    "MatchNumber": 84,
+    "RoundNumber": 10,
+    "DateUtc": "2025-10-29 20:05:00Z",
+    "Location": "Stade Vélodrome",
+    "HomeTeam": "Olympique de Marseille",
+    "AwayTeam": "Angers SCO",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 86,
+    "RoundNumber": 10,
+    "DateUtc": "2025-10-29 20:05:00Z",
+    "Location": "Stade de la Beaujoire",
+    "HomeTeam": "FC Nantes",
+    "AwayTeam": "AS Monaco",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
     "MatchNumber": 88,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 20:05:00Z",
     "Location": "Stade Charléty",
     "HomeTeam": "Paris FC",
     "AwayTeam": "Olympique Lyonnais",
@@ -970,7 +970,7 @@
   {
     "MatchNumber": 89,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 20:05:00Z",
     "Location": "Stade de la Meinau",
     "HomeTeam": "RC Strasbourg Alsace",
     "AwayTeam": "AJ Auxerre",
@@ -981,7 +981,7 @@
   {
     "MatchNumber": 90,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 20:05:00Z",
     "Location": "Stadium de Toulouse",
     "HomeTeam": "Toulouse FC",
     "AwayTeam": "Stade Rennais FC",
@@ -990,9 +990,31 @@
     "AwayTeamScore": null
   },
   {
+    "MatchNumber": 97,
+    "RoundNumber": 11,
+    "DateUtc": "2025-11-01 16:00:00Z",
+    "Location": "Parc des Princes",
+    "HomeTeam": "Paris Saint-Germain",
+    "AwayTeam": "OGC Nice",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 95,
+    "RoundNumber": 11,
+    "DateUtc": "2025-11-01 18:00:00Z",
+    "Location": "Stade Louis II",
+    "HomeTeam": "AS Monaco",
+    "AwayTeam": "Paris FC",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
     "MatchNumber": 91,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
+    "DateUtc": "2025-11-01 20:05:00Z",
     "Location": "Stade de l'Abbé-Deschamps",
     "HomeTeam": "AJ Auxerre",
     "AwayTeam": "Olympique de Marseille",
@@ -1001,12 +1023,12 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 92,
+    "MatchNumber": 98,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
-    "Location": "Stade Francis-Le Blé",
-    "HomeTeam": "Stade Brestois 29",
-    "AwayTeam": "Olympique Lyonnais",
+    "DateUtc": "2025-11-02 14:00:00Z",
+    "Location": "Roazhon Park",
+    "HomeTeam": "Stade Rennais FC",
+    "AwayTeam": "RC Strasbourg Alsace",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -1014,7 +1036,7 @@
   {
     "MatchNumber": 93,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
+    "DateUtc": "2025-11-02 16:15:00Z",
     "Location": "Stade Bollaert-Delelis",
     "HomeTeam": "RC Lens",
     "AwayTeam": "FC Lorient",
@@ -1025,7 +1047,7 @@
   {
     "MatchNumber": 94,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
+    "DateUtc": "2025-11-02 16:15:00Z",
     "Location": "Stade Pierre-Mauroy",
     "HomeTeam": "LOSC Lille",
     "AwayTeam": "Angers SCO",
@@ -1034,20 +1056,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 95,
-    "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
-    "Location": "Stade Louis II",
-    "HomeTeam": "AS Monaco",
-    "AwayTeam": "Paris FC",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 96,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
+    "DateUtc": "2025-11-02 16:15:00Z",
     "Location": "Stade de la Beaujoire",
     "HomeTeam": "FC Nantes",
     "AwayTeam": "FC Metz",
@@ -1056,31 +1067,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 97,
-    "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
-    "Location": "Parc des Princes",
-    "HomeTeam": "Paris Saint-Germain",
-    "AwayTeam": "OGC Nice",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 98,
-    "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
-    "Location": "Roazhon Park",
-    "HomeTeam": "Stade Rennais FC",
-    "AwayTeam": "RC Strasbourg Alsace",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 99,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
+    "DateUtc": "2025-11-02 16:15:00Z",
     "Location": "Stadium de Toulouse",
     "HomeTeam": "Toulouse FC",
     "AwayTeam": "Havre Athletic Club",
@@ -1089,78 +1078,12 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 100,
-    "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
-    "Location": "Stade Raymond Kopa",
-    "HomeTeam": "Angers SCO",
-    "AwayTeam": "AJ Auxerre",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 101,
-    "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
-    "Location": "Stade Océane",
-    "HomeTeam": "Havre Athletic Club",
-    "AwayTeam": "FC Nantes",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 102,
-    "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
-    "Location": "Stade du Moustoir",
-    "HomeTeam": "FC Lorient",
-    "AwayTeam": "Toulouse FC",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 103,
-    "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
-    "Location": "Parc Olympique Lyonnais",
-    "HomeTeam": "Olympique Lyonnais",
-    "AwayTeam": "Paris Saint-Germain",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 104,
-    "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
-    "Location": "Stade Vélodrome",
-    "HomeTeam": "Olympique de Marseille",
-    "AwayTeam": "Stade Brestois 29",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 105,
-    "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
-    "Location": "Stade Saint-Symphorien",
-    "HomeTeam": "FC Metz",
-    "AwayTeam": "OGC Nice",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 106,
-    "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
-    "Location": "Stade Louis II",
-    "HomeTeam": "AS Monaco",
-    "AwayTeam": "RC Lens",
+    "MatchNumber": 92,
+    "RoundNumber": 11,
+    "DateUtc": "2025-11-02 19:45:00Z",
+    "Location": "Stade Francis-Le Blé",
+    "HomeTeam": "Stade Brestois 29",
+    "AwayTeam": "Olympique Lyonnais",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -1168,7 +1091,7 @@
   {
     "MatchNumber": 107,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
+    "DateUtc": "2025-11-07 19:45:00Z",
     "Location": "Stade Charléty",
     "HomeTeam": "Paris FC",
     "AwayTeam": "Stade Rennais FC",
@@ -1177,12 +1100,89 @@
     "AwayTeamScore": null
   },
   {
+    "MatchNumber": 104,
+    "RoundNumber": 12,
+    "DateUtc": "2025-11-08 16:00:00Z",
+    "Location": "Stade Vélodrome",
+    "HomeTeam": "Olympique de Marseille",
+    "AwayTeam": "Stade Brestois 29",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 101,
+    "RoundNumber": 12,
+    "DateUtc": "2025-11-08 18:00:00Z",
+    "Location": "Stade Océane",
+    "HomeTeam": "Havre Athletic Club",
+    "AwayTeam": "FC Nantes",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 106,
+    "RoundNumber": 12,
+    "DateUtc": "2025-11-08 20:05:00Z",
+    "Location": "Stade Louis II",
+    "HomeTeam": "AS Monaco",
+    "AwayTeam": "RC Lens",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 102,
+    "RoundNumber": 12,
+    "DateUtc": "2025-11-09 14:00:00Z",
+    "Location": "Stade du Moustoir",
+    "HomeTeam": "FC Lorient",
+    "AwayTeam": "Toulouse FC",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 100,
+    "RoundNumber": 12,
+    "DateUtc": "2025-11-09 16:15:00Z",
+    "Location": "Stade Raymond Kopa",
+    "HomeTeam": "Angers SCO",
+    "AwayTeam": "AJ Auxerre",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 105,
+    "RoundNumber": 12,
+    "DateUtc": "2025-11-09 16:15:00Z",
+    "Location": "Stade Saint-Symphorien",
+    "HomeTeam": "FC Metz",
+    "AwayTeam": "OGC Nice",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
     "MatchNumber": 108,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
+    "DateUtc": "2025-11-09 16:15:00Z",
     "Location": "Stade de la Meinau",
     "HomeTeam": "RC Strasbourg Alsace",
     "AwayTeam": "LOSC Lille",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 103,
+    "RoundNumber": 12,
+    "DateUtc": "2025-11-09 19:45:00Z",
+    "Location": "Parc Olympique Lyonnais",
+    "HomeTeam": "Olympique Lyonnais",
+    "AwayTeam": "Paris Saint-Germain",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null

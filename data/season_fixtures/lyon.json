@@ -35,7 +35,7 @@
   {
     "MatchNumber": 35,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-13 22:00:00Z",
+    "DateUtc": "2025-09-14 18:45:00Z",
     "Location": "Roazhon Park",
     "HomeTeam": "Stade Rennais FC",
     "AwayTeam": "Olympique Lyonnais",
@@ -46,7 +46,7 @@
   {
     "MatchNumber": 41,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
+    "DateUtc": "2025-09-19 18:45:00Z",
     "Location": "Parc Olympique Lyonnais",
     "HomeTeam": "Olympique Lyonnais",
     "AwayTeam": "Angers SCO",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 47,
     "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
+    "DateUtc": "2025-09-28 15:15:00Z",
     "Location": "Stade Pierre-Mauroy",
     "HomeTeam": "LOSC Lille",
     "AwayTeam": "Olympique Lyonnais",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 59,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
+    "DateUtc": "2025-10-05 13:00:00Z",
     "Location": "Parc Olympique Lyonnais",
     "HomeTeam": "Olympique Lyonnais",
     "AwayTeam": "Toulouse FC",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 69,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
+    "DateUtc": "2025-10-18 15:00:00Z",
     "Location": "Allianz Riviera",
     "HomeTeam": "OGC Nice",
     "AwayTeam": "Olympique Lyonnais",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 78,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
+    "DateUtc": "2025-10-26 19:45:00Z",
     "Location": "Parc Olympique Lyonnais",
     "HomeTeam": "Olympique Lyonnais",
     "AwayTeam": "RC Strasbourg Alsace",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 88,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 20:05:00Z",
     "Location": "Stade Charléty",
     "HomeTeam": "Paris FC",
     "AwayTeam": "Olympique Lyonnais",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 92,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
+    "DateUtc": "2025-11-02 19:45:00Z",
     "Location": "Stade Francis-Le Blé",
     "HomeTeam": "Stade Brestois 29",
     "AwayTeam": "Olympique Lyonnais",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 103,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
+    "DateUtc": "2025-11-09 19:45:00Z",
     "Location": "Parc Olympique Lyonnais",
     "HomeTeam": "Olympique Lyonnais",
     "AwayTeam": "Paris Saint-Germain",

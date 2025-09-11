@@ -35,7 +35,7 @@
   {
     "MatchNumber": 34,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-13 22:00:00Z",
+    "DateUtc": "2025-09-14 15:15:00Z",
     "Location": "Parc des Princes",
     "HomeTeam": "Paris Saint-Germain",
     "AwayTeam": "RC Lens",
@@ -46,7 +46,7 @@
   {
     "MatchNumber": 40,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
+    "DateUtc": "2025-09-20 19:05:00Z",
     "Location": "Stade Bollaert-Delelis",
     "HomeTeam": "RC Lens",
     "AwayTeam": "LOSC Lille",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 52,
     "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
+    "DateUtc": "2025-09-28 18:45:00Z",
     "Location": "Roazhon Park",
     "HomeTeam": "Stade Rennais FC",
     "AwayTeam": "RC Lens",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 55,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
+    "DateUtc": "2025-10-04 19:05:00Z",
     "Location": "Stade de l'Abbé-Deschamps",
     "HomeTeam": "AJ Auxerre",
     "AwayTeam": "RC Lens",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 65,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
+    "DateUtc": "2025-10-19 13:00:00Z",
     "Location": "Stade Bollaert-Delelis",
     "HomeTeam": "RC Lens",
     "AwayTeam": "Paris FC",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 76,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
+    "DateUtc": "2025-10-25 19:05:00Z",
     "Location": "Stade Bollaert-Delelis",
     "HomeTeam": "RC Lens",
     "AwayTeam": "Olympique de Marseille",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 85,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 18:00:00Z",
     "Location": "Stade Saint-Symphorien",
     "HomeTeam": "FC Metz",
     "AwayTeam": "RC Lens",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 93,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
+    "DateUtc": "2025-11-02 16:15:00Z",
     "Location": "Stade Bollaert-Delelis",
     "HomeTeam": "RC Lens",
     "AwayTeam": "FC Lorient",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 106,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
+    "DateUtc": "2025-11-08 20:05:00Z",
     "Location": "Stade Louis II",
     "HomeTeam": "AS Monaco",
     "AwayTeam": "RC Lens",

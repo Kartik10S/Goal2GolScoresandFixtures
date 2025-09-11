@@ -46,7 +46,7 @@
   {
     "MatchNumber": 38,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
+    "DateUtc": "2025-09-20 17:00:00Z",
     "Location": "Stade Francis-Le Blé",
     "HomeTeam": "Stade Brestois 29",
     "AwayTeam": "OGC Nice",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 46,
     "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
+    "DateUtc": "2025-09-28 15:15:00Z",
     "Location": "Stade Raymond Kopa",
     "HomeTeam": "Angers SCO",
     "AwayTeam": "Stade Brestois 29",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 56,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
+    "DateUtc": "2025-10-04 17:00:00Z",
     "Location": "Stade Francis-Le Blé",
     "HomeTeam": "Stade Brestois 29",
     "AwayTeam": "FC Nantes",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 66,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
+    "DateUtc": "2025-10-19 15:15:00Z",
     "Location": "Stade du Moustoir",
     "HomeTeam": "FC Lorient",
     "AwayTeam": "Stade Brestois 29",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 75,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
+    "DateUtc": "2025-10-25 15:00:00Z",
     "Location": "Stade Francis-Le Blé",
     "HomeTeam": "Stade Brestois 29",
     "AwayTeam": "Paris Saint-Germain",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 82,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 18:00:00Z",
     "Location": "Stade Océane",
     "HomeTeam": "Havre Athletic Club",
     "AwayTeam": "Stade Brestois 29",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 92,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
+    "DateUtc": "2025-11-02 19:45:00Z",
     "Location": "Stade Francis-Le Blé",
     "HomeTeam": "Stade Brestois 29",
     "AwayTeam": "Olympique Lyonnais",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 104,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
+    "DateUtc": "2025-11-08 16:00:00Z",
     "Location": "Stade Vélodrome",
     "HomeTeam": "Olympique de Marseille",
     "AwayTeam": "Stade Brestois 29",

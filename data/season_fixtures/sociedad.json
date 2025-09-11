@@ -46,7 +46,7 @@
   {
     "MatchNumber": 43,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-21 19:00:00Z",
+    "DateUtc": "2025-09-19 19:00:00Z",
     "Location": "Estadio Olímpico de la Cartuja",
     "HomeTeam": "Real Betis",
     "AwayTeam": "Real Sociedad",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 60,
     "RoundNumber": 6,
-    "DateUtc": "2025-09-24 19:00:00Z",
+    "DateUtc": "2025-09-24 19:30:00Z",
     "Location": "Anoeta",
     "HomeTeam": "Real Sociedad",
     "AwayTeam": "RCD Mallorca",
@@ -69,7 +69,7 @@
     "MatchNumber": 62,
     "RoundNumber": 7,
     "DateUtc": "2025-09-28 19:00:00Z",
-    "Location": "Spotify Camp Nou",
+    "Location": "TBA",
     "HomeTeam": "FC Barcelona",
     "AwayTeam": "Real Sociedad",
     "Group": null,

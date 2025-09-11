@@ -35,7 +35,7 @@
   {
     "MatchNumber": 30,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-13 22:00:00Z",
+    "DateUtc": "2025-09-14 13:00:00Z",
     "Location": "Stade Pierre-Mauroy",
     "HomeTeam": "LOSC Lille",
     "AwayTeam": "Toulouse FC",
@@ -46,7 +46,7 @@
   {
     "MatchNumber": 40,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
+    "DateUtc": "2025-09-20 19:05:00Z",
     "Location": "Stade Bollaert-Delelis",
     "HomeTeam": "RC Lens",
     "AwayTeam": "LOSC Lille",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 47,
     "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
+    "DateUtc": "2025-09-28 15:15:00Z",
     "Location": "Stade Pierre-Mauroy",
     "HomeTeam": "LOSC Lille",
     "AwayTeam": "Olympique Lyonnais",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 58,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
+    "DateUtc": "2025-10-05 18:45:00Z",
     "Location": "Stade Pierre-Mauroy",
     "HomeTeam": "LOSC Lille",
     "AwayTeam": "Paris Saint-Germain",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 68,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
+    "DateUtc": "2025-10-19 18:45:00Z",
     "Location": "Stade de la Beaujoire",
     "HomeTeam": "FC Nantes",
     "AwayTeam": "LOSC Lille",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 77,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
+    "DateUtc": "2025-10-26 14:00:00Z",
     "Location": "Stade Pierre-Mauroy",
     "HomeTeam": "LOSC Lille",
     "AwayTeam": "FC Metz",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 87,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 18:00:00Z",
     "Location": "Allianz Riviera",
     "HomeTeam": "OGC Nice",
     "AwayTeam": "LOSC Lille",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 94,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
+    "DateUtc": "2025-11-02 16:15:00Z",
     "Location": "Stade Pierre-Mauroy",
     "HomeTeam": "LOSC Lille",
     "AwayTeam": "Angers SCO",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 108,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
+    "DateUtc": "2025-11-09 16:15:00Z",
     "Location": "Stade de la Meinau",
     "HomeTeam": "RC Strasbourg Alsace",
     "AwayTeam": "LOSC Lille",

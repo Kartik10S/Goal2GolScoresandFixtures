@@ -35,7 +35,7 @@
   {
     "MatchNumber": 33,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-13 22:00:00Z",
+    "DateUtc": "2025-09-13 15:00:00Z",
     "Location": "Allianz Riviera",
     "HomeTeam": "OGC Nice",
     "AwayTeam": "FC Nantes",
@@ -46,7 +46,7 @@
   {
     "MatchNumber": 44,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
+    "DateUtc": "2025-09-20 15:00:00Z",
     "Location": "Stade de la Beaujoire",
     "HomeTeam": "FC Nantes",
     "AwayTeam": "Stade Rennais FC",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 54,
     "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
+    "DateUtc": "2025-09-27 17:00:00Z",
     "Location": "Stadium de Toulouse",
     "HomeTeam": "Toulouse FC",
     "AwayTeam": "FC Nantes",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 56,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
+    "DateUtc": "2025-10-04 17:00:00Z",
     "Location": "Stade Francis-Le Blé",
     "HomeTeam": "Stade Brestois 29",
     "AwayTeam": "FC Nantes",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 68,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
+    "DateUtc": "2025-10-19 18:45:00Z",
     "Location": "Stade de la Beaujoire",
     "HomeTeam": "FC Nantes",
     "AwayTeam": "LOSC Lille",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 80,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
+    "DateUtc": "2025-10-24 18:45:00Z",
     "Location": "Stade Charléty",
     "HomeTeam": "Paris FC",
     "AwayTeam": "FC Nantes",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 86,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 20:05:00Z",
     "Location": "Stade de la Beaujoire",
     "HomeTeam": "FC Nantes",
     "AwayTeam": "AS Monaco",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 96,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
+    "DateUtc": "2025-11-02 16:15:00Z",
     "Location": "Stade de la Beaujoire",
     "HomeTeam": "FC Nantes",
     "AwayTeam": "FC Metz",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 101,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
+    "DateUtc": "2025-11-08 18:00:00Z",
     "Location": "Stade Océane",
     "HomeTeam": "Havre Athletic Club",
     "AwayTeam": "FC Nantes",

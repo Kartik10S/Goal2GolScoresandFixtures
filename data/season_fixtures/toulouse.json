@@ -35,7 +35,7 @@
   {
     "MatchNumber": 30,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-13 22:00:00Z",
+    "DateUtc": "2025-09-14 13:00:00Z",
     "Location": "Stade Pierre-Mauroy",
     "HomeTeam": "LOSC Lille",
     "AwayTeam": "Toulouse FC",
@@ -46,7 +46,7 @@
   {
     "MatchNumber": 37,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
+    "DateUtc": "2025-09-21 15:15:00Z",
     "Location": "Stade de l'Abbé-Deschamps",
     "HomeTeam": "AJ Auxerre",
     "AwayTeam": "Toulouse FC",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 54,
     "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
+    "DateUtc": "2025-09-27 17:00:00Z",
     "Location": "Stadium de Toulouse",
     "HomeTeam": "Toulouse FC",
     "AwayTeam": "FC Nantes",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 59,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
+    "DateUtc": "2025-10-05 13:00:00Z",
     "Location": "Parc Olympique Lyonnais",
     "HomeTeam": "Olympique Lyonnais",
     "AwayTeam": "Toulouse FC",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 72,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
+    "DateUtc": "2025-10-19 15:15:00Z",
     "Location": "Stadium de Toulouse",
     "HomeTeam": "Toulouse FC",
     "AwayTeam": "FC Metz",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 79,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
+    "DateUtc": "2025-10-25 17:00:00Z",
     "Location": "Stade Louis II",
     "HomeTeam": "AS Monaco",
     "AwayTeam": "Toulouse FC",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 90,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 20:05:00Z",
     "Location": "Stadium de Toulouse",
     "HomeTeam": "Toulouse FC",
     "AwayTeam": "Stade Rennais FC",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 99,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
+    "DateUtc": "2025-11-02 16:15:00Z",
     "Location": "Stadium de Toulouse",
     "HomeTeam": "Toulouse FC",
     "AwayTeam": "Havre Athletic Club",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 102,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
+    "DateUtc": "2025-11-09 14:00:00Z",
     "Location": "Stade du Moustoir",
     "HomeTeam": "FC Lorient",
     "AwayTeam": "Toulouse FC",

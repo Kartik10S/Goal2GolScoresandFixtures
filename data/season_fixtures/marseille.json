@@ -35,7 +35,7 @@
   {
     "MatchNumber": 31,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-13 22:00:00Z",
+    "DateUtc": "2025-09-12 18:45:00Z",
     "Location": "Stade Vélodrome",
     "HomeTeam": "Olympique de Marseille",
     "AwayTeam": "FC Lorient",
@@ -46,7 +46,7 @@
   {
     "MatchNumber": 42,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
+    "DateUtc": "2025-09-21 18:45:00Z",
     "Location": "Stade Vélodrome",
     "HomeTeam": "Olympique de Marseille",
     "AwayTeam": "Paris Saint-Germain",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 53,
     "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
+    "DateUtc": "2025-09-26 18:45:00Z",
     "Location": "Stade de la Meinau",
     "HomeTeam": "RC Strasbourg Alsace",
     "AwayTeam": "Olympique de Marseille",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 60,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
+    "DateUtc": "2025-10-04 15:00:00Z",
     "Location": "Stade Saint-Symphorien",
     "HomeTeam": "FC Metz",
     "AwayTeam": "Olympique de Marseille",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 67,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
+    "DateUtc": "2025-10-18 19:05:00Z",
     "Location": "Stade Vélodrome",
     "HomeTeam": "Olympique de Marseille",
     "AwayTeam": "Havre Athletic Club",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 76,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
+    "DateUtc": "2025-10-25 19:05:00Z",
     "Location": "Stade Bollaert-Delelis",
     "HomeTeam": "RC Lens",
     "AwayTeam": "Olympique de Marseille",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 84,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 20:05:00Z",
     "Location": "Stade Vélodrome",
     "HomeTeam": "Olympique de Marseille",
     "AwayTeam": "Angers SCO",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 91,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
+    "DateUtc": "2025-11-01 20:05:00Z",
     "Location": "Stade de l'Abbé-Deschamps",
     "HomeTeam": "AJ Auxerre",
     "AwayTeam": "Olympique de Marseille",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 104,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
+    "DateUtc": "2025-11-08 16:00:00Z",
     "Location": "Stade Vélodrome",
     "HomeTeam": "Olympique de Marseille",
     "AwayTeam": "Stade Brestois 29",

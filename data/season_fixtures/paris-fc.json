@@ -46,7 +46,7 @@
   {
     "MatchNumber": 45,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-20 22:00:00Z",
+    "DateUtc": "2025-09-21 13:00:00Z",
     "Location": "Stade Charléty",
     "HomeTeam": "Paris FC",
     "AwayTeam": "RC Strasbourg Alsace",
@@ -57,7 +57,7 @@
   {
     "MatchNumber": 50,
     "RoundNumber": 6,
-    "DateUtc": "2025-09-27 22:00:00Z",
+    "DateUtc": "2025-09-28 13:00:00Z",
     "Location": "Allianz Riviera",
     "HomeTeam": "OGC Nice",
     "AwayTeam": "Paris FC",
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 62,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-04 22:00:00Z",
+    "DateUtc": "2025-10-03 18:45:00Z",
     "Location": "Stade Charléty",
     "HomeTeam": "Paris FC",
     "AwayTeam": "FC Lorient",
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 65,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-18 22:00:00Z",
+    "DateUtc": "2025-10-19 13:00:00Z",
     "Location": "Stade Bollaert-Delelis",
     "HomeTeam": "RC Lens",
     "AwayTeam": "Paris FC",
@@ -90,7 +90,7 @@
   {
     "MatchNumber": 80,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-25 22:00:00Z",
+    "DateUtc": "2025-10-24 18:45:00Z",
     "Location": "Stade Charléty",
     "HomeTeam": "Paris FC",
     "AwayTeam": "FC Nantes",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 88,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-28 23:00:00Z",
+    "DateUtc": "2025-10-29 20:05:00Z",
     "Location": "Stade Charléty",
     "HomeTeam": "Paris FC",
     "AwayTeam": "Olympique Lyonnais",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 95,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 23:00:00Z",
+    "DateUtc": "2025-11-01 18:00:00Z",
     "Location": "Stade Louis II",
     "HomeTeam": "AS Monaco",
     "AwayTeam": "Paris FC",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 107,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-08 23:00:00Z",
+    "DateUtc": "2025-11-07 19:45:00Z",
     "Location": "Stade Charléty",
     "HomeTeam": "Paris FC",
     "AwayTeam": "Stade Rennais FC",

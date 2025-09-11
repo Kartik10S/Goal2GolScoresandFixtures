@@ -330,23 +330,23 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 31,
+    "MatchNumber": 39,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
-    "Location": "Olimpico Grande Torino",
-    "HomeTeam": "Torino",
-    "AwayTeam": "Atalanta",
+    "DateUtc": "2025-09-19 18:45:00Z",
+    "Location": "Ettore Giardiniero - Via del mare",
+    "HomeTeam": "Lecce",
+    "AwayTeam": "Cagliari",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 32,
+    "MatchNumber": 34,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
-    "Location": "Friuli",
-    "HomeTeam": "Udinese",
-    "AwayTeam": "Milan",
+    "DateUtc": "2025-09-20 13:00:00Z",
+    "Location": "Renato Dall'Ara",
+    "HomeTeam": "Bologna",
+    "AwayTeam": "Genoa",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -354,7 +354,7 @@
   {
     "MatchNumber": 33,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
+    "DateUtc": "2025-09-20 16:00:00Z",
     "Location": "Marcantonio Bentegodi",
     "HomeTeam": "Hellas Verona",
     "AwayTeam": "Juventus",
@@ -363,12 +363,23 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 34,
+    "MatchNumber": 32,
+    "RoundNumber": 4,
+    "DateUtc": "2025-09-20 18:45:00Z",
+    "Location": "Friuli",
+    "HomeTeam": "Udinese",
+    "AwayTeam": "Milan",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 31,
     "RoundNumber": 4,
     "DateUtc": "2025-09-21 13:00:00Z",
-    "Location": "Renato Dall'Ara",
-    "HomeTeam": "Bologna",
-    "AwayTeam": "Genoa",
+    "Location": "Olimpico Grande Torino",
+    "HomeTeam": "Torino",
+    "AwayTeam": "Atalanta",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -387,7 +398,7 @@
   {
     "MatchNumber": 36,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
+    "DateUtc": "2025-09-21 16:00:00Z",
     "Location": "Artemio Franchi",
     "HomeTeam": "Fiorentina",
     "AwayTeam": "Como",
@@ -398,7 +409,7 @@
   {
     "MatchNumber": 37,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
+    "DateUtc": "2025-09-21 18:45:00Z",
     "Location": "Giuseppe Meazza",
     "HomeTeam": "Inter",
     "AwayTeam": "Sassuolo",
@@ -409,7 +420,7 @@
   {
     "MatchNumber": 38,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
+    "DateUtc": "2025-09-21 22:30:00Z",
     "Location": "Olimpico",
     "HomeTeam": "Lazio",
     "AwayTeam": "Roma",
@@ -418,20 +429,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 39,
-    "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
-    "Location": "Ettore Giardiniero - Via del mare",
-    "HomeTeam": "Lecce",
-    "AwayTeam": "Cagliari",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 40,
     "RoundNumber": 4,
-    "DateUtc": "2025-09-21 13:00:00Z",
+    "DateUtc": "2025-09-22 18:45:00Z",
     "Location": "Diego Armando Maradona",
     "HomeTeam": "Napoli",
     "AwayTeam": "Pisa",
@@ -440,20 +440,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 41,
-    "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
-    "Location": "Unipol Domus",
-    "HomeTeam": "Cagliari",
-    "AwayTeam": "Inter",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 42,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
+    "DateUtc": "2025-09-27 13:00:00Z",
     "Location": "Giuseppe Sinigaglia",
     "HomeTeam": "Como",
     "AwayTeam": "Cremonese",
@@ -462,20 +451,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 43,
-    "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
-    "Location": "Luigi Ferraris",
-    "HomeTeam": "Genoa",
-    "AwayTeam": "Lazio",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 44,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
+    "DateUtc": "2025-09-27 16:00:00Z",
     "Location": "Juventus Stadium",
     "HomeTeam": "Juventus",
     "AwayTeam": "Atalanta",
@@ -484,34 +462,23 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 45,
+    "MatchNumber": 41,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
-    "Location": "Ettore Giardiniero - Via del mare",
-    "HomeTeam": "Lecce",
-    "AwayTeam": "Bologna",
+    "DateUtc": "2025-09-27 18:45:00Z",
+    "Location": "Unipol Domus",
+    "HomeTeam": "Cagliari",
+    "AwayTeam": "Inter",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 46,
+    "MatchNumber": 50,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
-    "Location": "San Siro",
-    "HomeTeam": "Milan",
-    "AwayTeam": "Napoli",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 47,
-    "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
-    "Location": "Ennio Tardini",
-    "HomeTeam": "Parma",
-    "AwayTeam": "Torino",
+    "DateUtc": "2025-09-28 10:30:00Z",
+    "Location": "Mapei Stadium - Città del Tricolore",
+    "HomeTeam": "Sassuolo",
+    "AwayTeam": "Udinese",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -539,12 +506,89 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 50,
+    "MatchNumber": 45,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-28 13:00:00Z",
-    "Location": "Mapei Stadium - Città del Tricolore",
-    "HomeTeam": "Sassuolo",
-    "AwayTeam": "Udinese",
+    "DateUtc": "2025-09-28 16:00:00Z",
+    "Location": "Ettore Giardiniero - Via del mare",
+    "HomeTeam": "Lecce",
+    "AwayTeam": "Bologna",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 43,
+    "RoundNumber": 5,
+    "DateUtc": "2025-09-28 18:45:00Z",
+    "Location": "Luigi Ferraris",
+    "HomeTeam": "Genoa",
+    "AwayTeam": "Lazio",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 46,
+    "RoundNumber": 5,
+    "DateUtc": "2025-09-28 18:45:00Z",
+    "Location": "San Siro",
+    "HomeTeam": "Milan",
+    "AwayTeam": "Napoli",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 47,
+    "RoundNumber": 5,
+    "DateUtc": "2025-09-29 16:30:00Z",
+    "Location": "Ennio Tardini",
+    "HomeTeam": "Parma",
+    "AwayTeam": "Torino",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 60,
+    "RoundNumber": 6,
+    "DateUtc": "2025-10-03 18:45:00Z",
+    "Location": "Marcantonio Bentegodi",
+    "HomeTeam": "Hellas Verona",
+    "AwayTeam": "Sassuolo",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 56,
+    "RoundNumber": 6,
+    "DateUtc": "2025-10-04 13:00:00Z",
+    "Location": "Olimpico",
+    "HomeTeam": "Lazio",
+    "AwayTeam": "Torino",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 58,
+    "RoundNumber": 6,
+    "DateUtc": "2025-10-04 13:00:00Z",
+    "Location": "Ennio Tardini",
+    "HomeTeam": "Parma",
+    "AwayTeam": "Lecce",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 54,
+    "RoundNumber": 6,
+    "DateUtc": "2025-10-04 16:00:00Z",
+    "Location": "Giuseppe Meazza",
+    "HomeTeam": "Inter",
+    "AwayTeam": "Cremonese",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -552,10 +596,21 @@
   {
     "MatchNumber": 51,
     "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
+    "DateUtc": "2025-10-04 18:45:00Z",
     "Location": "Atleti Azzurri d'Italia",
     "HomeTeam": "Atalanta",
     "AwayTeam": "Como",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 59,
+    "RoundNumber": 6,
+    "DateUtc": "2025-10-05 10:30:00Z",
+    "Location": "Friuli",
+    "HomeTeam": "Udinese",
+    "AwayTeam": "Cagliari",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -583,42 +638,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 54,
-    "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
-    "Location": "Giuseppe Meazza",
-    "HomeTeam": "Inter",
-    "AwayTeam": "Cremonese",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 55,
-    "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
-    "Location": "Juventus Stadium",
-    "HomeTeam": "Juventus",
-    "AwayTeam": "Milan",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 56,
-    "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
-    "Location": "Olimpico",
-    "HomeTeam": "Lazio",
-    "AwayTeam": "Torino",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 57,
     "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
+    "DateUtc": "2025-10-05 16:00:00Z",
     "Location": "Diego Armando Maradona",
     "HomeTeam": "Napoli",
     "AwayTeam": "Genoa",
@@ -627,45 +649,67 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 58,
+    "MatchNumber": 55,
     "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
-    "Location": "Ennio Tardini",
-    "HomeTeam": "Parma",
-    "AwayTeam": "Lecce",
+    "DateUtc": "2025-10-05 18:45:00Z",
+    "Location": "Juventus Stadium",
+    "HomeTeam": "Juventus",
+    "AwayTeam": "Milan",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 59,
-    "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
-    "Location": "Friuli",
-    "HomeTeam": "Udinese",
-    "AwayTeam": "Cagliari",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 60,
-    "RoundNumber": 6,
-    "DateUtc": "2025-10-05 13:00:00Z",
-    "Location": "Marcantonio Bentegodi",
-    "HomeTeam": "Hellas Verona",
+    "MatchNumber": 66,
+    "RoundNumber": 7,
+    "DateUtc": "2025-10-18 13:00:00Z",
+    "Location": "Ettore Giardiniero - Via del mare",
+    "HomeTeam": "Lecce",
     "AwayTeam": "Sassuolo",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 61,
+    "MatchNumber": 68,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
-    "Location": "Atleti Azzurri d'Italia",
-    "HomeTeam": "Atalanta",
-    "AwayTeam": "Lazio",
+    "DateUtc": "2025-10-18 13:00:00Z",
+    "Location": "Garibaldi",
+    "HomeTeam": "Pisa",
+    "AwayTeam": "Hellas Verona",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 70,
+    "RoundNumber": 7,
+    "DateUtc": "2025-10-18 16:00:00Z",
+    "Location": "Olimpico Grande Torino",
+    "HomeTeam": "Torino",
+    "AwayTeam": "Napoli",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 69,
+    "RoundNumber": 7,
+    "DateUtc": "2025-10-18 18:45:00Z",
+    "Location": "Olimpico",
+    "HomeTeam": "Roma",
+    "AwayTeam": "Inter",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 63,
+    "RoundNumber": 7,
+    "DateUtc": "2025-10-19 10:30:00Z",
+    "Location": "Giuseppe Sinigaglia",
+    "HomeTeam": "Como",
+    "AwayTeam": "Juventus",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -682,28 +726,6 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 63,
-    "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
-    "Location": "Giuseppe Sinigaglia",
-    "HomeTeam": "Como",
-    "AwayTeam": "Juventus",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 64,
-    "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
-    "Location": "Giovanni Zini",
-    "HomeTeam": "Cremonese",
-    "AwayTeam": "Udinese",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 65,
     "RoundNumber": 7,
     "DateUtc": "2025-10-19 13:00:00Z",
@@ -715,12 +737,12 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 66,
+    "MatchNumber": 61,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
-    "Location": "Ettore Giardiniero - Via del mare",
-    "HomeTeam": "Lecce",
-    "AwayTeam": "Sassuolo",
+    "DateUtc": "2025-10-19 16:00:00Z",
+    "Location": "Atleti Azzurri d'Italia",
+    "HomeTeam": "Atalanta",
+    "AwayTeam": "Lazio",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -728,7 +750,7 @@
   {
     "MatchNumber": 67,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
+    "DateUtc": "2025-10-19 18:45:00Z",
     "Location": "San Siro",
     "HomeTeam": "Milan",
     "AwayTeam": "Fiorentina",
@@ -737,34 +759,23 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 68,
+    "MatchNumber": 64,
     "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
-    "Location": "Garibaldi",
-    "HomeTeam": "Pisa",
-    "AwayTeam": "Hellas Verona",
+    "DateUtc": "2025-10-20 18:45:00Z",
+    "Location": "Giovanni Zini",
+    "HomeTeam": "Cremonese",
+    "AwayTeam": "Udinese",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 69,
-    "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
-    "Location": "Olimpico",
-    "HomeTeam": "Roma",
-    "AwayTeam": "Inter",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 70,
-    "RoundNumber": 7,
-    "DateUtc": "2025-10-19 13:00:00Z",
-    "Location": "Olimpico Grande Torino",
-    "HomeTeam": "Torino",
-    "AwayTeam": "Napoli",
+    "MatchNumber": 76,
+    "RoundNumber": 8,
+    "DateUtc": "2025-10-24 18:45:00Z",
+    "Location": "San Siro",
+    "HomeTeam": "Milan",
+    "AwayTeam": "Pisa",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -772,10 +783,54 @@
   {
     "MatchNumber": 71,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
+    "DateUtc": "2025-10-25 13:00:00Z",
     "Location": "Friuli",
     "HomeTeam": "Udinese",
     "AwayTeam": "Lecce",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 78,
+    "RoundNumber": 8,
+    "DateUtc": "2025-10-25 13:00:00Z",
+    "Location": "Ennio Tardini",
+    "HomeTeam": "Parma",
+    "AwayTeam": "Como",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 77,
+    "RoundNumber": 8,
+    "DateUtc": "2025-10-25 16:00:00Z",
+    "Location": "Diego Armando Maradona",
+    "HomeTeam": "Napoli",
+    "AwayTeam": "Inter",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 73,
+    "RoundNumber": 8,
+    "DateUtc": "2025-10-25 18:45:00Z",
+    "Location": "Giovanni Zini",
+    "HomeTeam": "Cremonese",
+    "AwayTeam": "Atalanta",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 80,
+    "RoundNumber": 8,
+    "DateUtc": "2025-10-26 11:30:00Z",
+    "Location": "Olimpico Grande Torino",
+    "HomeTeam": "Torino",
+    "AwayTeam": "Genoa",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -792,72 +847,6 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 73,
-    "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
-    "Location": "Giovanni Zini",
-    "HomeTeam": "Cremonese",
-    "AwayTeam": "Atalanta",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 74,
-    "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
-    "Location": "Artemio Franchi",
-    "HomeTeam": "Fiorentina",
-    "AwayTeam": "Bologna",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 75,
-    "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
-    "Location": "Olimpico",
-    "HomeTeam": "Lazio",
-    "AwayTeam": "Juventus",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 76,
-    "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
-    "Location": "San Siro",
-    "HomeTeam": "Milan",
-    "AwayTeam": "Pisa",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 77,
-    "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
-    "Location": "Diego Armando Maradona",
-    "HomeTeam": "Napoli",
-    "AwayTeam": "Inter",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 78,
-    "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
-    "Location": "Ennio Tardini",
-    "HomeTeam": "Parma",
-    "AwayTeam": "Como",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 79,
     "RoundNumber": 8,
     "DateUtc": "2025-10-26 14:00:00Z",
@@ -869,12 +858,34 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 80,
+    "MatchNumber": 74,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-26 14:00:00Z",
-    "Location": "Olimpico Grande Torino",
-    "HomeTeam": "Torino",
-    "AwayTeam": "Genoa",
+    "DateUtc": "2025-10-26 17:00:00Z",
+    "Location": "Artemio Franchi",
+    "HomeTeam": "Fiorentina",
+    "AwayTeam": "Bologna",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 75,
+    "RoundNumber": 8,
+    "DateUtc": "2025-10-26 19:45:00Z",
+    "Location": "Olimpico",
+    "HomeTeam": "Lazio",
+    "AwayTeam": "Juventus",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 88,
+    "RoundNumber": 9,
+    "DateUtc": "2025-10-28 17:30:00Z",
+    "Location": "Ettore Giardiniero - Via del mare",
+    "HomeTeam": "Lecce",
+    "AwayTeam": "Napoli",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -882,7 +893,7 @@
   {
     "MatchNumber": 81,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-28 19:45:00Z",
     "Location": "Atleti Azzurri d'Italia",
     "HomeTeam": "Atalanta",
     "AwayTeam": "Milan",
@@ -893,7 +904,7 @@
   {
     "MatchNumber": 82,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-29 17:30:00Z",
     "Location": "Renato Dall'Ara",
     "HomeTeam": "Bologna",
     "AwayTeam": "Torino",
@@ -902,12 +913,23 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 83,
+    "MatchNumber": 87,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
-    "Location": "Unipol Domus",
-    "HomeTeam": "Cagliari",
-    "AwayTeam": "Sassuolo",
+    "DateUtc": "2025-10-29 17:30:00Z",
+    "Location": "Juventus Stadium",
+    "HomeTeam": "Juventus",
+    "AwayTeam": "Udinese",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 90,
+    "RoundNumber": 9,
+    "DateUtc": "2025-10-29 17:30:00Z",
+    "Location": "Olimpico",
+    "HomeTeam": "Roma",
+    "AwayTeam": "Parma",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -915,7 +937,7 @@
   {
     "MatchNumber": 84,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-29 19:45:00Z",
     "Location": "Giuseppe Sinigaglia",
     "HomeTeam": "Como",
     "AwayTeam": "Hellas Verona",
@@ -926,7 +948,7 @@
   {
     "MatchNumber": 85,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-29 19:45:00Z",
     "Location": "Luigi Ferraris",
     "HomeTeam": "Genoa",
     "AwayTeam": "Cremonese",
@@ -937,7 +959,7 @@
   {
     "MatchNumber": 86,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-29 19:45:00Z",
     "Location": "Giuseppe Meazza",
     "HomeTeam": "Inter",
     "AwayTeam": "Fiorentina",
@@ -946,23 +968,12 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 87,
+    "MatchNumber": 83,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
-    "Location": "Juventus Stadium",
-    "HomeTeam": "Juventus",
-    "AwayTeam": "Udinese",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 88,
-    "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
-    "Location": "Ettore Giardiniero - Via del mare",
-    "HomeTeam": "Lecce",
-    "AwayTeam": "Napoli",
+    "DateUtc": "2025-10-30 17:30:00Z",
+    "Location": "Unipol Domus",
+    "HomeTeam": "Cagliari",
+    "AwayTeam": "Sassuolo",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -970,7 +981,7 @@
   {
     "MatchNumber": 89,
     "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
+    "DateUtc": "2025-10-30 19:45:00Z",
     "Location": "Garibaldi",
     "HomeTeam": "Pisa",
     "AwayTeam": "Lazio",
@@ -979,12 +990,23 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 90,
-    "RoundNumber": 9,
-    "DateUtc": "2025-10-29 14:00:00Z",
-    "Location": "Olimpico",
-    "HomeTeam": "Roma",
-    "AwayTeam": "Parma",
+    "MatchNumber": 99,
+    "RoundNumber": 10,
+    "DateUtc": "2025-11-01 14:00:00Z",
+    "Location": "Friuli",
+    "HomeTeam": "Udinese",
+    "AwayTeam": "Atalanta",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 95,
+    "RoundNumber": 10,
+    "DateUtc": "2025-11-01 17:00:00Z",
+    "Location": "Diego Armando Maradona",
+    "HomeTeam": "Napoli",
+    "AwayTeam": "Como",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -992,10 +1014,21 @@
   {
     "MatchNumber": 91,
     "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
+    "DateUtc": "2025-11-01 19:45:00Z",
     "Location": "Giovanni Zini",
     "HomeTeam": "Cremonese",
     "AwayTeam": "Juventus",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 100,
+    "RoundNumber": 10,
+    "DateUtc": "2025-11-02 11:30:00Z",
+    "Location": "Marcantonio Bentegodi",
+    "HomeTeam": "Hellas Verona",
+    "AwayTeam": "Inter",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -1012,61 +1045,6 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 93,
-    "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
-    "Location": "Olimpico",
-    "HomeTeam": "Lazio",
-    "AwayTeam": "Cagliari",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 94,
-    "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
-    "Location": "San Siro",
-    "HomeTeam": "Milan",
-    "AwayTeam": "Roma",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 95,
-    "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
-    "Location": "Diego Armando Maradona",
-    "HomeTeam": "Napoli",
-    "AwayTeam": "Como",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 96,
-    "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
-    "Location": "Ennio Tardini",
-    "HomeTeam": "Parma",
-    "AwayTeam": "Bologna",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 97,
-    "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
-    "Location": "Mapei Stadium - Città del Tricolore",
-    "HomeTeam": "Sassuolo",
-    "AwayTeam": "Genoa",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 98,
     "RoundNumber": 10,
     "DateUtc": "2025-11-02 14:00:00Z",
@@ -1078,23 +1056,100 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 99,
+    "MatchNumber": 96,
     "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
-    "Location": "Friuli",
-    "HomeTeam": "Udinese",
-    "AwayTeam": "Atalanta",
+    "DateUtc": "2025-11-02 17:00:00Z",
+    "Location": "Ennio Tardini",
+    "HomeTeam": "Parma",
+    "AwayTeam": "Bologna",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 100,
+    "MatchNumber": 94,
     "RoundNumber": 10,
-    "DateUtc": "2025-11-02 14:00:00Z",
-    "Location": "Marcantonio Bentegodi",
-    "HomeTeam": "Hellas Verona",
-    "AwayTeam": "Inter",
+    "DateUtc": "2025-11-02 19:45:00Z",
+    "Location": "San Siro",
+    "HomeTeam": "Milan",
+    "AwayTeam": "Roma",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 97,
+    "RoundNumber": 10,
+    "DateUtc": "2025-11-03 17:30:00Z",
+    "Location": "Mapei Stadium - Città del Tricolore",
+    "HomeTeam": "Sassuolo",
+    "AwayTeam": "Genoa",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 93,
+    "RoundNumber": 10,
+    "DateUtc": "2025-11-03 19:45:00Z",
+    "Location": "Olimpico",
+    "HomeTeam": "Lazio",
+    "AwayTeam": "Cagliari",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 109,
+    "RoundNumber": 11,
+    "DateUtc": "2025-11-07 19:45:00Z",
+    "Location": "Garibaldi",
+    "HomeTeam": "Pisa",
+    "AwayTeam": "Cremonese",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 103,
+    "RoundNumber": 11,
+    "DateUtc": "2025-11-08 14:00:00Z",
+    "Location": "Giuseppe Sinigaglia",
+    "HomeTeam": "Como",
+    "AwayTeam": "Cagliari",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 107,
+    "RoundNumber": 11,
+    "DateUtc": "2025-11-08 14:00:00Z",
+    "Location": "Ettore Giardiniero - Via del mare",
+    "HomeTeam": "Lecce",
+    "AwayTeam": "Hellas Verona",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 106,
+    "RoundNumber": 11,
+    "DateUtc": "2025-11-08 17:00:00Z",
+    "Location": "Juventus Stadium",
+    "HomeTeam": "Juventus",
+    "AwayTeam": "Torino",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 108,
+    "RoundNumber": 11,
+    "DateUtc": "2025-11-08 19:45:00Z",
+    "Location": "Ennio Tardini",
+    "HomeTeam": "Parma",
+    "AwayTeam": "Milan",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -1102,7 +1157,7 @@
   {
     "MatchNumber": 101,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-09 14:00:00Z",
+    "DateUtc": "2025-11-09 11:30:00Z",
     "Location": "Atleti Azzurri d'Italia",
     "HomeTeam": "Atalanta",
     "AwayTeam": "Sassuolo",
@@ -1122,17 +1177,6 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 103,
-    "RoundNumber": 11,
-    "DateUtc": "2025-11-09 14:00:00Z",
-    "Location": "Giuseppe Sinigaglia",
-    "HomeTeam": "Como",
-    "AwayTeam": "Cagliari",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 104,
     "RoundNumber": 11,
     "DateUtc": "2025-11-09 14:00:00Z",
@@ -1144,64 +1188,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 105,
-    "RoundNumber": 11,
-    "DateUtc": "2025-11-09 14:00:00Z",
-    "Location": "Giuseppe Meazza",
-    "HomeTeam": "Inter",
-    "AwayTeam": "Lazio",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 106,
-    "RoundNumber": 11,
-    "DateUtc": "2025-11-09 14:00:00Z",
-    "Location": "Juventus Stadium",
-    "HomeTeam": "Juventus",
-    "AwayTeam": "Torino",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 107,
-    "RoundNumber": 11,
-    "DateUtc": "2025-11-09 14:00:00Z",
-    "Location": "Ettore Giardiniero - Via del mare",
-    "HomeTeam": "Lecce",
-    "AwayTeam": "Hellas Verona",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 108,
-    "RoundNumber": 11,
-    "DateUtc": "2025-11-09 14:00:00Z",
-    "Location": "Ennio Tardini",
-    "HomeTeam": "Parma",
-    "AwayTeam": "Milan",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 109,
-    "RoundNumber": 11,
-    "DateUtc": "2025-11-09 14:00:00Z",
-    "Location": "Garibaldi",
-    "HomeTeam": "Pisa",
-    "AwayTeam": "Cremonese",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 110,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-09 14:00:00Z",
+    "DateUtc": "2025-11-09 17:00:00Z",
     "Location": "Olimpico",
     "HomeTeam": "Roma",
     "AwayTeam": "Udinese",
@@ -1210,12 +1199,12 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 111,
-    "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
-    "Location": "Marcantonio Bentegodi",
-    "HomeTeam": "Hellas Verona",
-    "AwayTeam": "Parma",
+    "MatchNumber": 105,
+    "RoundNumber": 11,
+    "DateUtc": "2025-11-09 19:45:00Z",
+    "Location": "Giuseppe Meazza",
+    "HomeTeam": "Inter",
+    "AwayTeam": "Lazio",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -1223,10 +1212,54 @@
   {
     "MatchNumber": 112,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
+    "DateUtc": "2025-11-22 14:00:00Z",
     "Location": "Unipol Domus",
     "HomeTeam": "Cagliari",
     "AwayTeam": "Genoa",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 120,
+    "RoundNumber": 12,
+    "DateUtc": "2025-11-22 14:00:00Z",
+    "Location": "Friuli",
+    "HomeTeam": "Udinese",
+    "AwayTeam": "Bologna",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 114,
+    "RoundNumber": 12,
+    "DateUtc": "2025-11-22 17:00:00Z",
+    "Location": "Artemio Franchi",
+    "HomeTeam": "Fiorentina",
+    "AwayTeam": "Juventus",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 117,
+    "RoundNumber": 12,
+    "DateUtc": "2025-11-22 19:45:00Z",
+    "Location": "Diego Armando Maradona",
+    "HomeTeam": "Napoli",
+    "AwayTeam": "Atalanta",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 111,
+    "RoundNumber": 12,
+    "DateUtc": "2025-11-23 11:30:00Z",
+    "Location": "Marcantonio Bentegodi",
+    "HomeTeam": "Hellas Verona",
+    "AwayTeam": "Parma",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -1243,31 +1276,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 114,
-    "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
-    "Location": "Artemio Franchi",
-    "HomeTeam": "Fiorentina",
-    "AwayTeam": "Juventus",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 115,
-    "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
-    "Location": "Giuseppe Meazza",
-    "HomeTeam": "Inter",
-    "AwayTeam": "Milan",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 116,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
+    "DateUtc": "2025-11-23 17:00:00Z",
     "Location": "Olimpico",
     "HomeTeam": "Lazio",
     "AwayTeam": "Lecce",
@@ -1276,23 +1287,12 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 117,
+    "MatchNumber": 115,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
-    "Location": "Diego Armando Maradona",
-    "HomeTeam": "Napoli",
-    "AwayTeam": "Atalanta",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 118,
-    "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
-    "Location": "Mapei Stadium - Città del Tricolore",
-    "HomeTeam": "Sassuolo",
-    "AwayTeam": "Pisa",
+    "DateUtc": "2025-11-23 19:45:00Z",
+    "Location": "Giuseppe Meazza",
+    "HomeTeam": "Inter",
+    "AwayTeam": "Milan",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -1300,7 +1300,7 @@
   {
     "MatchNumber": 119,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
+    "DateUtc": "2025-11-24 17:30:00Z",
     "Location": "Olimpico Grande Torino",
     "HomeTeam": "Torino",
     "AwayTeam": "Como",
@@ -1309,12 +1309,12 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 120,
+    "MatchNumber": 118,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-23 14:00:00Z",
-    "Location": "Friuli",
-    "HomeTeam": "Udinese",
-    "AwayTeam": "Bologna",
+    "DateUtc": "2025-11-24 19:45:00Z",
+    "Location": "Mapei Stadium - Città del Tricolore",
+    "HomeTeam": "Sassuolo",
+    "AwayTeam": "Pisa",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
