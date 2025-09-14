@@ -51,8 +51,8 @@
     "HomeTeam": "Watford",
     "AwayTeam": "Blackburn Rovers",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 62,

@@ -51,8 +51,8 @@
     "HomeTeam": "Preston North End",
     "AwayTeam": "Middlesbrough",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2
   },
   {
     "MatchNumber": 67,

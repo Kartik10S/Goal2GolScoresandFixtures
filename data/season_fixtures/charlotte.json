@@ -326,8 +326,8 @@
     "HomeTeam": "Charlotte",
     "AwayTeam": "Miami",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 450,

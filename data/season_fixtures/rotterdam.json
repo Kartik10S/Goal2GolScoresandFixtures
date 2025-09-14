@@ -68,7 +68,7 @@
   {
     "MatchNumber": 61,
     "RoundNumber": 7,
-    "DateUtc": "2025-09-27 19:00:00Z",
+    "DateUtc": "2025-09-27 18:00:00Z",
     "Location": "Van Donge & De Roo Stadion",
     "HomeTeam": "Excelsior Rotterdam",
     "AwayTeam": "PSV",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 88,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-26 13:30:00Z",
+    "DateUtc": "2025-10-26 19:00:00Z",
     "Location": "De Adelaarshorst",
     "HomeTeam": "Go Ahead Eagles",
     "AwayTeam": "Excelsior Rotterdam",
@@ -134,7 +134,7 @@
   {
     "MatchNumber": 114,
     "RoundNumber": 13,
-    "DateUtc": "2025-11-22 00:00:00Z",
+    "DateUtc": "2025-11-22 17:45:00Z",
     "Location": "Johan Cruyff Arena",
     "HomeTeam": "Ajax",
     "AwayTeam": "Excelsior Rotterdam",
@@ -145,7 +145,7 @@
   {
     "MatchNumber": 124,
     "RoundNumber": 14,
-    "DateUtc": "2025-11-29 00:00:00Z",
+    "DateUtc": "2025-11-29 15:30:00Z",
     "Location": "Van Donge & De Roo Stadion",
     "HomeTeam": "Excelsior Rotterdam",
     "AwayTeam": "NAC Breda",
@@ -156,7 +156,7 @@
   {
     "MatchNumber": 133,
     "RoundNumber": 15,
-    "DateUtc": "2025-12-06 00:00:00Z",
+    "DateUtc": "2025-12-05 19:00:00Z",
     "Location": "Van Donge & De Roo Stadion",
     "HomeTeam": "Excelsior Rotterdam",
     "AwayTeam": "FC Groningen",
@@ -167,7 +167,7 @@
   {
     "MatchNumber": 142,
     "RoundNumber": 16,
-    "DateUtc": "2025-12-13 00:00:00Z",
+    "DateUtc": "2025-12-14 15:45:00Z",
     "Location": "AFAS Stadion",
     "HomeTeam": "AZ",
     "AwayTeam": "Excelsior Rotterdam",
@@ -178,7 +178,7 @@
   {
     "MatchNumber": 145,
     "RoundNumber": 17,
-    "DateUtc": "2025-12-20 00:00:00Z",
+    "DateUtc": "2025-12-20 17:45:00Z",
     "Location": "Van Donge & De Roo Stadion",
     "HomeTeam": "Excelsior Rotterdam",
     "AwayTeam": "PEC Zwolle",
@@ -189,7 +189,7 @@
   {
     "MatchNumber": 159,
     "RoundNumber": 18,
-    "DateUtc": "2026-01-10 00:00:00Z",
+    "DateUtc": "2026-01-10 19:00:00Z",
     "Location": "Philips Stadion",
     "HomeTeam": "PSV",
     "AwayTeam": "Excelsior Rotterdam",
@@ -200,7 +200,7 @@
   {
     "MatchNumber": 169,
     "RoundNumber": 19,
-    "DateUtc": "2026-01-17 00:00:00Z",
+    "DateUtc": "2026-01-16 19:00:00Z",
     "Location": "Van Donge & De Roo Stadion",
     "HomeTeam": "Excelsior Rotterdam",
     "AwayTeam": "Telstar",
@@ -211,7 +211,7 @@
   {
     "MatchNumber": 176,
     "RoundNumber": 20,
-    "DateUtc": "2026-01-24 00:00:00Z",
+    "DateUtc": "2026-01-24 20:00:00Z",
     "Location": "De Grolsch Veste",
     "HomeTeam": "FC Twente",
     "AwayTeam": "Excelsior Rotterdam",
@@ -222,7 +222,7 @@
   {
     "MatchNumber": 184,
     "RoundNumber": 21,
-    "DateUtc": "2026-01-31 00:00:00Z",
+    "DateUtc": "2026-02-01 11:15:00Z",
     "Location": "Van Donge & De Roo Stadion",
     "HomeTeam": "Excelsior Rotterdam",
     "AwayTeam": "Ajax",

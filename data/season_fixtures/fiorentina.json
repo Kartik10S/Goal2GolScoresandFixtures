@@ -29,8 +29,8 @@
     "HomeTeam": "Fiorentina",
     "AwayTeam": "Napoli",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 3
   },
   {
     "MatchNumber": 36,

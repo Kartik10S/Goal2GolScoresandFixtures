@@ -51,8 +51,8 @@
     "HomeTeam": "N.E.C. Nijmegen",
     "AwayTeam": "PSV",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 5
   },
   {
     "MatchNumber": 48,
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 61,
     "RoundNumber": 7,
-    "DateUtc": "2025-09-27 19:00:00Z",
+    "DateUtc": "2025-09-27 18:00:00Z",
     "Location": "Van Donge & De Roo Stadion",
     "HomeTeam": "Excelsior Rotterdam",
     "AwayTeam": "PSV",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 97,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 15:30:00Z",
+    "DateUtc": "2025-10-31 19:00:00Z",
     "Location": "Philips Stadion",
     "HomeTeam": "PSV",
     "AwayTeam": "Fortuna Sittard",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 105,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-09 13:30:00Z",
+    "DateUtc": "2025-11-09 15:45:00Z",
     "Location": "AFAS Stadion",
     "HomeTeam": "AZ",
     "AwayTeam": "PSV",
@@ -134,7 +134,7 @@
   {
     "MatchNumber": 117,
     "RoundNumber": 13,
-    "DateUtc": "2025-11-22 00:00:00Z",
+    "DateUtc": "2025-11-22 15:30:00Z",
     "Location": "Rat Verlegh Stadion",
     "HomeTeam": "NAC Breda",
     "AwayTeam": "PSV",
@@ -145,7 +145,7 @@
   {
     "MatchNumber": 119,
     "RoundNumber": 14,
-    "DateUtc": "2025-11-29 00:00:00Z",
+    "DateUtc": "2025-11-30 11:15:00Z",
     "Location": "Philips Stadion",
     "HomeTeam": "PSV",
     "AwayTeam": "FC Volendam",
@@ -156,7 +156,7 @@
   {
     "MatchNumber": 129,
     "RoundNumber": 15,
-    "DateUtc": "2025-12-06 00:00:00Z",
+    "DateUtc": "2025-12-06 15:30:00Z",
     "Location": "Abe Lenstra Stadion",
     "HomeTeam": "sc Heerenveen",
     "AwayTeam": "PSV",
@@ -167,7 +167,7 @@
   {
     "MatchNumber": 144,
     "RoundNumber": 16,
-    "DateUtc": "2025-12-13 00:00:00Z",
+    "DateUtc": "2025-12-13 19:00:00Z",
     "Location": "Philips Stadion",
     "HomeTeam": "PSV",
     "AwayTeam": "Heracles Almelo",
@@ -178,7 +178,7 @@
   {
     "MatchNumber": 153,
     "RoundNumber": 17,
-    "DateUtc": "2025-12-20 00:00:00Z",
+    "DateUtc": "2025-12-21 11:15:00Z",
     "Location": "Stadion Galgenwaard",
     "HomeTeam": "FC Utrecht",
     "AwayTeam": "PSV",
@@ -189,7 +189,7 @@
   {
     "MatchNumber": 159,
     "RoundNumber": 18,
-    "DateUtc": "2026-01-10 00:00:00Z",
+    "DateUtc": "2026-01-10 19:00:00Z",
     "Location": "Philips Stadion",
     "HomeTeam": "PSV",
     "AwayTeam": "Excelsior Rotterdam",
@@ -200,7 +200,7 @@
   {
     "MatchNumber": 163,
     "RoundNumber": 19,
-    "DateUtc": "2026-01-17 00:00:00Z",
+    "DateUtc": "2026-01-17 19:00:00Z",
     "Location": "Fortuna Sittard Stadion",
     "HomeTeam": "Fortuna Sittard",
     "AwayTeam": "PSV",
@@ -211,7 +211,7 @@
   {
     "MatchNumber": 172,
     "RoundNumber": 20,
-    "DateUtc": "2026-01-24 00:00:00Z",
+    "DateUtc": "2026-01-24 19:00:00Z",
     "Location": "Philips Stadion",
     "HomeTeam": "PSV",
     "AwayTeam": "NAC Breda",
@@ -222,7 +222,7 @@
   {
     "MatchNumber": 189,
     "RoundNumber": 21,
-    "DateUtc": "2026-01-31 00:00:00Z",
+    "DateUtc": "2026-02-01 13:30:00Z",
     "Location": "Philips Stadion",
     "HomeTeam": "PSV",
     "AwayTeam": "Feyenoord",

@@ -304,8 +304,8 @@
     "HomeTeam": "Vancouver",
     "AwayTeam": "Philadelphia",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 7,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 460,

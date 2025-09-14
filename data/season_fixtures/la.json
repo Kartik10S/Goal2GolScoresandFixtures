@@ -315,8 +315,8 @@
     "HomeTeam": "Seattle",
     "AwayTeam": "LA",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2
   },
   {
     "MatchNumber": 462,

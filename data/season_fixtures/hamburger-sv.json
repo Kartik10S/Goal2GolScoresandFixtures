@@ -29,8 +29,8 @@
     "HomeTeam": "FC Bayern München",
     "AwayTeam": "Hamburger SV",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 5,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 28,

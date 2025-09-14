@@ -304,8 +304,8 @@
     "HomeTeam": "Chicago",
     "AwayTeam": "New York City",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 3
   },
   {
     "MatchNumber": 373,

@@ -68,7 +68,7 @@
   {
     "MatchNumber": 56,
     "RoundNumber": 7,
-    "DateUtc": "2025-09-27 14:30:00Z",
+    "DateUtc": "2025-09-28 12:30:00Z",
     "Location": "Euroborg",
     "HomeTeam": "FC Groningen",
     "AwayTeam": "Feyenoord",
@@ -134,7 +134,7 @@
   {
     "MatchNumber": 110,
     "RoundNumber": 13,
-    "DateUtc": "2025-11-22 00:00:00Z",
+    "DateUtc": "2025-11-23 15:45:00Z",
     "Location": "Euroborg",
     "HomeTeam": "FC Groningen",
     "AwayTeam": "PEC Zwolle",
@@ -145,7 +145,7 @@
   {
     "MatchNumber": 120,
     "RoundNumber": 14,
-    "DateUtc": "2025-11-29 00:00:00Z",
+    "DateUtc": "2025-11-30 19:00:00Z",
     "Location": "Johan Cruyff Arena",
     "HomeTeam": "Ajax",
     "AwayTeam": "FC Groningen",
@@ -156,7 +156,7 @@
   {
     "MatchNumber": 133,
     "RoundNumber": 15,
-    "DateUtc": "2025-12-06 00:00:00Z",
+    "DateUtc": "2025-12-05 19:00:00Z",
     "Location": "Van Donge & De Roo Stadion",
     "HomeTeam": "Excelsior Rotterdam",
     "AwayTeam": "FC Groningen",
@@ -167,7 +167,7 @@
   {
     "MatchNumber": 139,
     "RoundNumber": 16,
-    "DateUtc": "2025-12-13 00:00:00Z",
+    "DateUtc": "2025-12-13 17:45:00Z",
     "Location": "Euroborg",
     "HomeTeam": "FC Groningen",
     "AwayTeam": "FC Volendam",
@@ -178,7 +178,7 @@
   {
     "MatchNumber": 152,
     "RoundNumber": 17,
-    "DateUtc": "2025-12-20 00:00:00Z",
+    "DateUtc": "2025-12-21 13:30:00Z",
     "Location": "De Adelaarshorst",
     "HomeTeam": "Go Ahead Eagles",
     "AwayTeam": "FC Groningen",
@@ -189,7 +189,7 @@
   {
     "MatchNumber": 161,
     "RoundNumber": 18,
-    "DateUtc": "2026-01-10 00:00:00Z",
+    "DateUtc": "2026-01-10 20:00:00Z",
     "Location": "Euroborg",
     "HomeTeam": "FC Groningen",
     "AwayTeam": "NAC Breda",
@@ -200,7 +200,7 @@
   {
     "MatchNumber": 168,
     "RoundNumber": 19,
-    "DateUtc": "2026-01-17 00:00:00Z",
+    "DateUtc": "2026-01-18 11:15:00Z",
     "Location": "Abe Lenstra Stadion",
     "HomeTeam": "sc Heerenveen",
     "AwayTeam": "FC Groningen",
@@ -211,7 +211,7 @@
   {
     "MatchNumber": 180,
     "RoundNumber": 20,
-    "DateUtc": "2026-01-24 00:00:00Z",
+    "DateUtc": "2026-01-25 13:30:00Z",
     "Location": "Euroborg",
     "HomeTeam": "FC Groningen",
     "AwayTeam": "Fortuna Sittard",
@@ -222,7 +222,7 @@
   {
     "MatchNumber": 183,
     "RoundNumber": 21,
-    "DateUtc": "2026-01-31 00:00:00Z",
+    "DateUtc": "2026-01-31 20:00:00Z",
     "Location": "Sparta Stadion Het Kasteel",
     "HomeTeam": "Sparta Rotterdam",
     "AwayTeam": "FC Groningen",

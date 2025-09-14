@@ -51,8 +51,8 @@
     "HomeTeam": "Sheffield Wednesday",
     "AwayTeam": "Bristol City",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 3
   },
   {
     "MatchNumber": 63,

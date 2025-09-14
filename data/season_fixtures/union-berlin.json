@@ -29,8 +29,8 @@
     "HomeTeam": "1. FC Union Berlin",
     "AwayTeam": "TSG Hoffenheim",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 4
   },
   {
     "MatchNumber": 35,

@@ -46,13 +46,13 @@
   {
     "MatchNumber": 43,
     "RoundNumber": 5,
-    "DateUtc": "2025-09-13 16:45:00Z",
+    "DateUtc": "2025-09-13 17:10:00Z",
     "Location": "De Adelaarshorst",
     "HomeTeam": "Go Ahead Eagles",
     "AwayTeam": "FC Volendam",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 51,
@@ -79,7 +79,7 @@
   {
     "MatchNumber": 71,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-05 14:45:00Z",
+    "DateUtc": "2025-10-05 18:00:00Z",
     "Location": "De Adelaarshorst",
     "HomeTeam": "Go Ahead Eagles",
     "AwayTeam": "N.E.C. Nijmegen",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 88,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-26 13:30:00Z",
+    "DateUtc": "2025-10-26 19:00:00Z",
     "Location": "De Adelaarshorst",
     "HomeTeam": "Go Ahead Eagles",
     "AwayTeam": "Excelsior Rotterdam",
@@ -123,7 +123,7 @@
   {
     "MatchNumber": 101,
     "RoundNumber": 12,
-    "DateUtc": "2025-11-09 15:45:00Z",
+    "DateUtc": "2025-11-09 19:00:00Z",
     "Location": "De Adelaarshorst",
     "HomeTeam": "Go Ahead Eagles",
     "AwayTeam": "Feyenoord",
@@ -134,7 +134,7 @@
   {
     "MatchNumber": 112,
     "RoundNumber": 13,
-    "DateUtc": "2025-11-22 00:00:00Z",
+    "DateUtc": "2025-11-22 20:00:00Z",
     "Location": "Asito Stadion",
     "HomeTeam": "Heracles Almelo",
     "AwayTeam": "Go Ahead Eagles",
@@ -145,7 +145,7 @@
   {
     "MatchNumber": 125,
     "RoundNumber": 14,
-    "DateUtc": "2025-11-29 00:00:00Z",
+    "DateUtc": "2025-11-30 13:30:00Z",
     "Location": "De Adelaarshorst",
     "HomeTeam": "Go Ahead Eagles",
     "AwayTeam": "FC Utrecht",
@@ -156,7 +156,7 @@
   {
     "MatchNumber": 128,
     "RoundNumber": 15,
-    "DateUtc": "2025-12-06 00:00:00Z",
+    "DateUtc": "2025-12-07 13:30:00Z",
     "Location": "AFAS Stadion",
     "HomeTeam": "AZ",
     "AwayTeam": "Go Ahead Eagles",
@@ -167,7 +167,7 @@
   {
     "MatchNumber": 141,
     "RoundNumber": 16,
-    "DateUtc": "2025-12-13 00:00:00Z",
+    "DateUtc": "2025-12-14 13:30:00Z",
     "Location": "De Grolsch Veste",
     "HomeTeam": "FC Twente",
     "AwayTeam": "Go Ahead Eagles",
@@ -178,7 +178,7 @@
   {
     "MatchNumber": 152,
     "RoundNumber": 17,
-    "DateUtc": "2025-12-20 00:00:00Z",
+    "DateUtc": "2025-12-21 13:30:00Z",
     "Location": "De Adelaarshorst",
     "HomeTeam": "Go Ahead Eagles",
     "AwayTeam": "FC Groningen",
@@ -189,7 +189,7 @@
   {
     "MatchNumber": 157,
     "RoundNumber": 18,
-    "DateUtc": "2026-01-10 00:00:00Z",
+    "DateUtc": "2026-01-11 13:30:00Z",
     "Location": "De Adelaarshorst",
     "HomeTeam": "Go Ahead Eagles",
     "AwayTeam": "Fortuna Sittard",
@@ -200,7 +200,7 @@
   {
     "MatchNumber": 170,
     "RoundNumber": 19,
-    "DateUtc": "2026-01-17 00:00:00Z",
+    "DateUtc": "2026-01-17 15:30:00Z",
     "Location": "Johan Cruyff Arena",
     "HomeTeam": "Ajax",
     "AwayTeam": "Go Ahead Eagles",
@@ -211,7 +211,7 @@
   {
     "MatchNumber": 177,
     "RoundNumber": 20,
-    "DateUtc": "2026-01-24 00:00:00Z",
+    "DateUtc": "2026-01-25 19:00:00Z",
     "Location": "De Adelaarshorst",
     "HomeTeam": "Go Ahead Eagles",
     "AwayTeam": "sc Heerenveen",
@@ -222,7 +222,7 @@
   {
     "MatchNumber": 188,
     "RoundNumber": 21,
-    "DateUtc": "2026-01-31 00:00:00Z",
+    "DateUtc": "2026-02-01 19:00:00Z",
     "Location": "Kras Stadion",
     "HomeTeam": "FC Volendam",
     "AwayTeam": "Go Ahead Eagles",

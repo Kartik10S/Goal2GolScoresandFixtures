@@ -29,8 +29,8 @@
     "HomeTeam": "VfL Wolfsburg",
     "AwayTeam": "1. FC Köln",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 3
   },
   {
     "MatchNumber": 34,

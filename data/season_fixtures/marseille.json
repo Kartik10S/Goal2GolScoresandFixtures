@@ -40,8 +40,8 @@
     "HomeTeam": "Olympique de Marseille",
     "AwayTeam": "FC Lorient",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 42,

@@ -2,6 +2,34 @@
   {
     "rank": "1",
     "team": {
+      "name": "Arsenal"
+    },
+    "games": "4",
+    "wins": "3",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "9",
+    "goalsAgainst": "1",
+    "goalDifference": "8",
+    "points": "9"
+  },
+  {
+    "rank": "2",
+    "team": {
+      "name": "Tottenham Hotspur"
+    },
+    "games": "4",
+    "wins": "3",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "8",
+    "goalsAgainst": "1",
+    "goalDifference": "7",
+    "points": "9"
+  },
+  {
+    "rank": "3",
+    "team": {
       "name": "Liverpool"
     },
     "games": "3",
@@ -14,7 +42,21 @@
     "points": "9"
   },
   {
-    "rank": "2",
+    "rank": "4",
+    "team": {
+      "name": "Bournemouth"
+    },
+    "games": "4",
+    "wins": "3",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "6",
+    "goalsAgainst": "5",
+    "goalDifference": "1",
+    "points": "9"
+  },
+  {
+    "rank": "5",
     "team": {
       "name": "Chelsea"
     },
@@ -26,47 +68,5 @@
     "goalsAgainst": "1",
     "goalDifference": "6",
     "points": "7"
-  },
-  {
-    "rank": "3",
-    "team": {
-      "name": "Arsenal"
-    },
-    "games": "3",
-    "wins": "2",
-    "draws": "0",
-    "losses": "1",
-    "goalsFor": "6",
-    "goalsAgainst": "1",
-    "goalDifference": "5",
-    "points": "6"
-  },
-  {
-    "rank": "4",
-    "team": {
-      "name": "Tottenham Hotspur"
-    },
-    "games": "3",
-    "wins": "2",
-    "draws": "0",
-    "losses": "1",
-    "goalsFor": "5",
-    "goalsAgainst": "1",
-    "goalDifference": "4",
-    "points": "6"
-  },
-  {
-    "rank": "5",
-    "team": {
-      "name": "Everton"
-    },
-    "games": "3",
-    "wins": "2",
-    "draws": "0",
-    "losses": "1",
-    "goalsFor": "5",
-    "goalsAgainst": "3",
-    "goalDifference": "2",
-    "points": "6"
   }
 ]

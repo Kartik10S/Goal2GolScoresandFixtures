@@ -51,8 +51,8 @@
     "HomeTeam": "West Bromwich Albion",
     "AwayTeam": "Derby County",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 64,

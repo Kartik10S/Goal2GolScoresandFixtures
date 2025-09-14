@@ -40,8 +40,8 @@
     "HomeTeam": "OGC Nice",
     "AwayTeam": "FC Nantes",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 38,

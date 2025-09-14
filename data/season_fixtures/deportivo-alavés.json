@@ -40,8 +40,8 @@
     "HomeTeam": "Athletic Club",
     "AwayTeam": "Deportivo Alavés",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 41,

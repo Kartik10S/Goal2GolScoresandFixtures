@@ -293,8 +293,8 @@
     "HomeTeam": "San Jose",
     "AwayTeam": "LAFC",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 4
   },
   {
     "MatchNumber": 280,

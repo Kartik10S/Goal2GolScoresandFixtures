@@ -40,8 +40,8 @@
     "HomeTeam": "Atlético de Madrid",
     "AwayTeam": "Villarreal CF",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 50,

@@ -29,8 +29,8 @@
     "HomeTeam": "Juventus",
     "AwayTeam": "Inter",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 3
   },
   {
     "MatchNumber": 33,

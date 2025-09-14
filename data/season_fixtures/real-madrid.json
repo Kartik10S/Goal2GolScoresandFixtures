@@ -40,8 +40,8 @@
     "HomeTeam": "Real Sociedad",
     "AwayTeam": "Real Madrid",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2
   },
   {
     "MatchNumber": 49,

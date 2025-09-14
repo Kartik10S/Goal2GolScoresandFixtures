@@ -326,8 +326,8 @@
     "HomeTeam": "Montréal",
     "AwayTeam": "St. Louis",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2
   },
   {
     "MatchNumber": 455,

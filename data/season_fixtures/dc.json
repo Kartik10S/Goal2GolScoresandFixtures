@@ -326,8 +326,8 @@
     "HomeTeam": "D.C.",
     "AwayTeam": "Orlando",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 454,

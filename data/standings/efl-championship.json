@@ -4,69 +4,69 @@
     "team": {
       "name": "Middlesbrough"
     },
-    "games": "4",
+    "games": "5",
     "wins": "4",
-    "draws": "0",
+    "draws": "1",
     "losses": "0",
-    "goalsFor": "7",
-    "goalsAgainst": "1",
+    "goalsFor": "9",
+    "goalsAgainst": "3",
     "goalDifference": "6",
-    "points": "12"
+    "points": "13"
   },
   {
     "rank": "2",
     "team": {
-      "name": "West Bromwich Albion"
+      "name": "Stoke City"
     },
-    "games": "4",
-    "wins": "3",
-    "draws": "1",
-    "losses": "0",
-    "goalsFor": "6",
+    "games": "5",
+    "wins": "4",
+    "draws": "0",
+    "losses": "1",
+    "goalsFor": "9",
     "goalsAgainst": "3",
-    "goalDifference": "3",
-    "points": "10"
+    "goalDifference": "6",
+    "points": "12"
   },
   {
     "rank": "3",
     "team": {
-      "name": "Stoke City"
+      "name": "Bristol City"
     },
-    "games": "4",
+    "games": "5",
     "wins": "3",
-    "draws": "0",
-    "losses": "1",
-    "goalsFor": "8",
-    "goalsAgainst": "3",
-    "goalDifference": "5",
-    "points": "9"
+    "draws": "2",
+    "losses": "0",
+    "goalsFor": "12",
+    "goalsAgainst": "4",
+    "goalDifference": "8",
+    "points": "11"
   },
   {
     "rank": "4",
     "team": {
       "name": "Leicester City"
     },
-    "games": "4",
+    "games": "5",
     "wins": "3",
-    "draws": "0",
+    "draws": "1",
     "losses": "1",
-    "goalsFor": "6",
-    "goalsAgainst": "3",
+    "goalsFor": "8",
+    "goalsAgainst": "5",
     "goalDifference": "3",
-    "points": "9"
+    "points": "10"
   },
   {
     "rank": "5",
     "team": {
-      "name": "Coventry City"
+      "name": "West Bromwich Albion"
     },
-    "games": "4",
-    "wins": "2",
-    "draws": "2",
-    "losses": "0",
-    "goalsFor": "14",
-    "goalsAgainst": "6",
-    "goalDifference": "8",
-    "points": "8"
+    "games": "5",
+    "wins": "3",
+    "draws": "1",
+    "losses": "1",
+    "goalsFor": "6",
+    "goalsAgainst": "4",
+    "goalDifference": "2",
+    "points": "10"
   }
 ]

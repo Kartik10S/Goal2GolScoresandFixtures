@@ -29,8 +29,8 @@
     "HomeTeam": "1. FC Heidenheim 1846",
     "AwayTeam": "Borussia Dortmund",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2
   },
   {
     "MatchNumber": 28,

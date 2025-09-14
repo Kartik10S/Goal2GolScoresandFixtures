@@ -79,7 +79,7 @@
   {
     "MatchNumber": 69,
     "RoundNumber": 8,
-    "DateUtc": "2025-10-05 12:30:00Z",
+    "DateUtc": "2025-10-05 14:45:00Z",
     "Location": "AFAS Stadion",
     "HomeTeam": "AZ",
     "AwayTeam": "Telstar",
@@ -101,7 +101,7 @@
   {
     "MatchNumber": 89,
     "RoundNumber": 10,
-    "DateUtc": "2025-10-25 18:00:00Z",
+    "DateUtc": "2025-10-25 16:45:00Z",
     "Location": "Sparta Stadion Het Kasteel",
     "HomeTeam": "Sparta Rotterdam",
     "AwayTeam": "Telstar",
@@ -134,7 +134,7 @@
   {
     "MatchNumber": 115,
     "RoundNumber": 13,
-    "DateUtc": "2025-11-22 00:00:00Z",
+    "DateUtc": "2025-11-23 13:30:00Z",
     "Location": "Sportpark Schoonenberg",
     "HomeTeam": "Telstar",
     "AwayTeam": "FC Utrecht",
@@ -145,7 +145,7 @@
   {
     "MatchNumber": 122,
     "RoundNumber": 14,
-    "DateUtc": "2025-11-29 00:00:00Z",
+    "DateUtc": "2025-11-30 13:30:00Z",
     "Location": "Sportpark Schoonenberg",
     "HomeTeam": "Telstar",
     "AwayTeam": "Feyenoord",
@@ -156,7 +156,7 @@
   {
     "MatchNumber": 135,
     "RoundNumber": 15,
-    "DateUtc": "2025-12-06 00:00:00Z",
+    "DateUtc": "2025-12-06 19:00:00Z",
     "Location": "Asito Stadion",
     "HomeTeam": "Heracles Almelo",
     "AwayTeam": "Telstar",
@@ -167,7 +167,7 @@
   {
     "MatchNumber": 138,
     "RoundNumber": 16,
-    "DateUtc": "2025-12-13 00:00:00Z",
+    "DateUtc": "2025-12-13 15:30:00Z",
     "Location": "Sportpark Schoonenberg",
     "HomeTeam": "Telstar",
     "AwayTeam": "N.E.C. Nijmegen",
@@ -178,7 +178,7 @@
   {
     "MatchNumber": 149,
     "RoundNumber": 17,
-    "DateUtc": "2025-12-20 00:00:00Z",
+    "DateUtc": "2025-12-20 20:00:00Z",
     "Location": "Rat Verlegh Stadion",
     "HomeTeam": "NAC Breda",
     "AwayTeam": "Telstar",
@@ -189,7 +189,7 @@
   {
     "MatchNumber": 155,
     "RoundNumber": 18,
-    "DateUtc": "2026-01-10 00:00:00Z",
+    "DateUtc": "2026-01-11 13:30:00Z",
     "Location": "Sportpark Schoonenberg",
     "HomeTeam": "Telstar",
     "AwayTeam": "Ajax",
@@ -200,7 +200,7 @@
   {
     "MatchNumber": 169,
     "RoundNumber": 19,
-    "DateUtc": "2026-01-17 00:00:00Z",
+    "DateUtc": "2026-01-16 19:00:00Z",
     "Location": "Van Donge & De Roo Stadion",
     "HomeTeam": "Excelsior Rotterdam",
     "AwayTeam": "Telstar",
@@ -211,7 +211,7 @@
   {
     "MatchNumber": 174,
     "RoundNumber": 20,
-    "DateUtc": "2026-01-24 00:00:00Z",
+    "DateUtc": "2026-01-25 11:15:00Z",
     "Location": "Sportpark Schoonenberg",
     "HomeTeam": "Telstar",
     "AwayTeam": "AZ",
@@ -222,7 +222,7 @@
   {
     "MatchNumber": 187,
     "RoundNumber": 21,
-    "DateUtc": "2026-01-31 00:00:00Z",
+    "DateUtc": "2026-01-31 17:45:00Z",
     "Location": "MAC³PARK Stadion",
     "HomeTeam": "PEC Zwolle",
     "AwayTeam": "Telstar",

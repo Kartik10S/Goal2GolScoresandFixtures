@@ -40,8 +40,8 @@
     "HomeTeam": "Getafe CF",
     "AwayTeam": "Real Oviedo",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 42,

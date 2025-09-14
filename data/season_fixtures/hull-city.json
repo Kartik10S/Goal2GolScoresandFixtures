@@ -51,8 +51,8 @@
     "HomeTeam": "Swansea City",
     "AwayTeam": "Hull City",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2
   },
   {
     "MatchNumber": 65,

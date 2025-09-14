@@ -29,8 +29,8 @@
     "HomeTeam": "Sport-Club Freiburg",
     "AwayTeam": "VfB Stuttgart",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 32,

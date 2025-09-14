@@ -51,8 +51,8 @@
     "HomeTeam": "Ajax",
     "AwayTeam": "PEC Zwolle",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 48,
@@ -68,7 +68,7 @@
   {
     "MatchNumber": 58,
     "RoundNumber": 7,
-    "DateUtc": "2025-09-27 16:45:00Z",
+    "DateUtc": "2025-09-27 14:30:00Z",
     "Location": "Johan Cruyff Arena",
     "HomeTeam": "Ajax",
     "AwayTeam": "NAC Breda",
@@ -112,7 +112,7 @@
   {
     "MatchNumber": 99,
     "RoundNumber": 11,
-    "DateUtc": "2025-11-01 20:00:00Z",
+    "DateUtc": "2025-11-01 15:30:00Z",
     "Location": "Johan Cruyff Arena",
     "HomeTeam": "Ajax",
     "AwayTeam": "sc Heerenveen",
@@ -134,7 +134,7 @@
   {
     "MatchNumber": 114,
     "RoundNumber": 13,
-    "DateUtc": "2025-11-22 00:00:00Z",
+    "DateUtc": "2025-11-22 17:45:00Z",
     "Location": "Johan Cruyff Arena",
     "HomeTeam": "Ajax",
     "AwayTeam": "Excelsior Rotterdam",
@@ -145,7 +145,7 @@
   {
     "MatchNumber": 120,
     "RoundNumber": 14,
-    "DateUtc": "2025-11-29 00:00:00Z",
+    "DateUtc": "2025-11-30 19:00:00Z",
     "Location": "Johan Cruyff Arena",
     "HomeTeam": "Ajax",
     "AwayTeam": "FC Groningen",
@@ -156,7 +156,7 @@
   {
     "MatchNumber": 132,
     "RoundNumber": 15,
-    "DateUtc": "2025-12-06 00:00:00Z",
+    "DateUtc": "2025-12-06 17:45:00Z",
     "Location": "Fortuna Sittard Stadion",
     "HomeTeam": "Fortuna Sittard",
     "AwayTeam": "Ajax",
@@ -167,7 +167,7 @@
   {
     "MatchNumber": 136,
     "RoundNumber": 16,
-    "DateUtc": "2025-12-13 00:00:00Z",
+    "DateUtc": "2025-12-14 13:30:00Z",
     "Location": "Johan Cruyff Arena",
     "HomeTeam": "Ajax",
     "AwayTeam": "Feyenoord",
@@ -178,7 +178,7 @@
   {
     "MatchNumber": 148,
     "RoundNumber": 17,
-    "DateUtc": "2025-12-20 00:00:00Z",
+    "DateUtc": "2025-12-20 19:00:00Z",
     "Location": "Goffertstadion",
     "HomeTeam": "N.E.C. Nijmegen",
     "AwayTeam": "Ajax",
@@ -189,7 +189,7 @@
   {
     "MatchNumber": 155,
     "RoundNumber": 18,
-    "DateUtc": "2026-01-10 00:00:00Z",
+    "DateUtc": "2026-01-11 13:30:00Z",
     "Location": "Sportpark Schoonenberg",
     "HomeTeam": "Telstar",
     "AwayTeam": "Ajax",
@@ -200,7 +200,7 @@
   {
     "MatchNumber": 170,
     "RoundNumber": 19,
-    "DateUtc": "2026-01-17 00:00:00Z",
+    "DateUtc": "2026-01-17 15:30:00Z",
     "Location": "Johan Cruyff Arena",
     "HomeTeam": "Ajax",
     "AwayTeam": "Go Ahead Eagles",
@@ -211,7 +211,7 @@
   {
     "MatchNumber": 175,
     "RoundNumber": 20,
-    "DateUtc": "2026-01-24 00:00:00Z",
+    "DateUtc": "2026-01-24 15:30:00Z",
     "Location": "Johan Cruyff Arena",
     "HomeTeam": "Ajax",
     "AwayTeam": "FC Volendam",
@@ -222,7 +222,7 @@
   {
     "MatchNumber": 184,
     "RoundNumber": 21,
-    "DateUtc": "2026-01-31 00:00:00Z",
+    "DateUtc": "2026-02-01 11:15:00Z",
     "Location": "Van Donge & De Roo Stadion",
     "HomeTeam": "Excelsior Rotterdam",
     "AwayTeam": "Ajax",

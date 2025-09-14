@@ -40,8 +40,8 @@
     "HomeTeam": "Fulham",
     "AwayTeam": "Leeds",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 45,

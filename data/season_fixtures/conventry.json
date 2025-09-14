@@ -51,8 +51,8 @@
     "HomeTeam": "Coventry City",
     "AwayTeam": "Norwich City",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 66,

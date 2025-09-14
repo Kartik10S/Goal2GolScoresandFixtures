@@ -40,8 +40,8 @@
     "HomeTeam": "AJ Auxerre",
     "AwayTeam": "AS Monaco",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2
   },
   {
     "MatchNumber": 43,

@@ -40,8 +40,8 @@
     "HomeTeam": "Everton",
     "AwayTeam": "Aston Villa",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 46,

@@ -29,8 +29,8 @@
     "HomeTeam": "Bayer 04 Leverkusen",
     "AwayTeam": "Eintracht Frankfurt",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 36,

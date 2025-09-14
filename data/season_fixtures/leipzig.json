@@ -29,8 +29,8 @@
     "HomeTeam": "1. FSV Mainz 05",
     "AwayTeam": "RB Leipzig",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 33,

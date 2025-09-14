@@ -51,8 +51,8 @@
     "HomeTeam": "Ipswich Town",
     "AwayTeam": "Sheffield United",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 5,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 62,

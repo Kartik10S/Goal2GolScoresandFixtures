@@ -315,8 +315,8 @@
     "HomeTeam": "Atlanta",
     "AwayTeam": "Columbus",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 5
   },
   {
     "MatchNumber": 373,

@@ -4,28 +4,28 @@
     "team": {
       "name": "Napoli"
     },
-    "games": "2",
-    "wins": "2",
+    "games": "3",
+    "wins": "3",
     "draws": "0",
     "losses": "0",
-    "goalsFor": "3",
-    "goalsAgainst": "0",
-    "goalDifference": "3",
-    "points": "6"
+    "goalsFor": "6",
+    "goalsAgainst": "1",
+    "goalDifference": "5",
+    "points": "9"
   },
   {
     "rank": "2",
     "team": {
       "name": "Juventus"
     },
-    "games": "2",
-    "wins": "2",
+    "games": "3",
+    "wins": "3",
     "draws": "0",
     "losses": "0",
-    "goalsFor": "3",
-    "goalsAgainst": "0",
-    "goalDifference": "3",
-    "points": "6"
+    "goalsFor": "7",
+    "goalsAgainst": "3",
+    "goalDifference": "4",
+    "points": "9"
   },
   {
     "rank": "3",

@@ -51,8 +51,8 @@
     "HomeTeam": "Oxford United",
     "AwayTeam": "Leicester City",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2
   },
   {
     "MatchNumber": 66,
